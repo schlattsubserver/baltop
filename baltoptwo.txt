@@ -1,13 +1,13 @@
-§6Ordering balances of§c 169 §6users, please wait...
-§6Top balances (1/7/20, 12:00 AM)
-§e ---- §6Balancetop §e--§6 Page §c2§6/§c19 §e----
-§r9. Tsuro, $208,049.03
-§r10. code9nine, $130,525.81
-§r11. Mr_Pingz§r, $106,551.40
-§r12. ShaKroN1118, $88,929.79
-§r13. FlyManWind§r, $75,154.16
-§r14. ~Waffle§r, $58,557.35
-§r15. TheCourier2282, $54,635.17
-§r16. Beachfront§r, $38,702.81
-§r17. Ashy_One, $35,660.42
-§6Type§c /balancetop 3 §6to read the next page.
+Ordering balances of 169 users, please wait...
+Top balances (1/7/20, 12:14 AM)
+ ---- Balancetop -- Page 2/19 ----
+9. Tsuro, $208,049.03
+10. code9nine, $130,525.81
+11. Mr_Pingz, $106,551.40
+12. ShaKroN1118, $88,929.79
+13. FlyManWind, $74,758.85
+14. Waffle742, $58,952.66
+15. TheCourier2282, $54,635.17
+16. Beachfront, $41,088.28
+17. Ashy_One, $35,660.42
+Type /balancetop 3 to read the next page.
