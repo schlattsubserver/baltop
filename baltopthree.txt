@@ -1,13 +1,13 @@
-Ordering balances of 169 users, please wait...
-Top balances (1/7/20, 2:00 AM)
+Ordering balances of 170 users, please wait...
+Top balances (1/7/20, 4:00 AM)
  ---- Balancetop -- Page 3/19 ----
 18. relaxingbedo, $34,808.52
-19. ~Nathan, $28,658.49
-20. mariller, $28,581.64
-21. Tricondemolition, $28,135.86
+19. mariller, $28,581.64
+20. Tricondemolition, $28,285.86
+21. 10Nates, $27,218.49
 22. Kekulism, $25,549.37
-23. ~Cocobob, $24,874.89
-24. Wamon_, $23,248.98
+23. Wamon_, $23,248.98
+24. Cocobob678, $23,033.94
 25. Mattk16, $17,324.27
-26. Mandeglue, $15,800.15
+26. Mandeglue, $16,600.15
 Type /balancetop 4 to read the next page.
