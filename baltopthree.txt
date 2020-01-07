@@ -1,5 +1,5 @@
 Ordering balances of 170 users, please wait...
-Top balances (1/7/20, 12:00 PM)
+Top balances (1/7/20, 2:00 PM)
  ---- Balancetop -- Page 3/19 ----
 18. relaxingbedo, $34,808.52
 19. mariller, $28,581.64
@@ -9,5 +9,5 @@ Top balances (1/7/20, 12:00 PM)
 23. Wamon_, $23,248.98
 24. Cocobob678, $23,033.94
 25. Mattk16, $17,324.27
-26. ~Highway_Man, $14,031.64
+26. LuxCapacitator, $14,731.64
 Type /balancetop 4 to read the next page.
