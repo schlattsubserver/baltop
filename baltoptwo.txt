@@ -1,8 +1,7 @@
-Ordering balances of 171 users, please wait...
-Top balances (1/8/20, 2:00 AM)
+Top balances (1/8/20, 3:59 AM)
  ---- Balancetop -- Page 2/20 ----
-9. ~Blaze, $170,331.14
-10. Beachfront, $165,906.30
+9. Tsuro, $208,049.03
+10. ~Blaze, $170,343.14
 11. Mr_Pingz, $135,441.27
 12. code9nine, $130,525.81
 13. ShaKroN1118, $88,979.79

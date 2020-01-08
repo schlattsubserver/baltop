@@ -1,13 +1,12 @@
-Ordering balances of 171 users, please wait...
-Top balances (1/8/20, 2:00 AM)
+Top balances (1/8/20, 3:59 AM)
  ---- Balancetop -- Page 1/20 ----
-Server Total: $4,061,087.59
+Server Total: $4,141,657.80
 1. WheezyGold7931, $599,834
 2. alexsam26_CTLNK, $459,301.89
 3. jswilk, $454,862.35
 4. Spongeffect, $311,229.42
 5. Tsarcasm, $297,901.50
-6. Akonyan, $230,553.09
-7. Gavinsight, $220,288.93
-8. Tsuro, $208,049.03
+6. Beachfront, $245,906.30
+7. Akonyan, $230,553.09
+8. Gavinsight, $220,288.93
 Type /balancetop 2 to read the next page.
