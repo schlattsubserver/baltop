@@ -1,5 +1,5 @@
 Ordering balances of 172 users, please wait...
-Top balances (1/8/20, 6:00 PM)
+Top balances (1/8/20, 8:00 PM)
  ---- Balancetop -- Page 2/20 ----
 9. Tsuro, $208,049.03
 10. code9nine, $181,465.81
@@ -8,6 +8,6 @@ Top balances (1/8/20, 6:00 PM)
 13. ShaKroN1118, $88,999.79
 14. FlyManWind, $68,704.60
 15. TheCourier2282, $54,635.17
-16. ~Waffle, $47,578.39
-17. ~Odin, $38,910.22
+16. ~Waffle, $46,978.39
+17. ~Odin, $36,660.22
 Type /balancetop 3 to read the next page.
