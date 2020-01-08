@@ -1,13 +1,13 @@
 Ordering balances of 171 users, please wait...
-Top balances (1/8/20, 12:00 AM)
+Top balances (1/8/20, 2:00 AM)
  ---- Balancetop -- Page 2/20 ----
-9. blazex224, $168,331.14
-10. code9nine, $130,525.81
-11. Mr_Pingz, $107,344.40
-12. Beachfront, $100,279.74
-13. ShaKroN1118, $88,929.79
-14. FlyManWind, $71,100.98
+9. ~Blaze, $170,331.14
+10. Beachfront, $165,906.30
+11. Mr_Pingz, $135,441.27
+12. code9nine, $130,525.81
+13. ShaKroN1118, $88,979.79
+14. FlyManWind, $68,704.60
 15. TheCourier2282, $54,635.17
-16. Waffle742, $48,461.95
+16. Waffle742, $46,022.89
 17. Ashy_One, $39,811.78
 Type /balancetop 3 to read the next page.
