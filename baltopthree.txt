@@ -1,13 +1,13 @@
 Ordering balances of 173 users, please wait...
-Top balances (1/9/20, 12:00 PM)
+Top balances (1/9/20, 2:00 PM)
  ---- Balancetop -- Page 3/20 ----
 18. mariller, $36,121.64
 19. relaxingbedo, $34,808.52
 20. Cocobob678, $34,537.82
-21. GamerGadj, $28,530.44
-22. 10Nates, $27,218.49
-23. Wamon_, $23,248.98
-24. Tricondemolition, $21,085.86
-25. Mattk16, $17,324.27
-26. Shattered_Pixels, $16,591.53
+21. ~Lux, $31,531.64
+22. GamerGadj, $28,530.44
+23. 10Nates, $27,218.49
+24. Wamon_, $23,248.98
+25. Tricondemolition, $21,085.86
+26. Mattk16, $17,324.27
 Type /balancetop 4 to read the next page.
