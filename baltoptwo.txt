@@ -1,11 +1,11 @@
-Ordering balances of 172 users, please wait...
-Top balances (1/9/20, 6:00 AM)
+Ordering balances of 173 users, please wait...
+Top balances (1/9/20, 8:00 AM)
  ---- Balancetop -- Page 2/20 ----
 9. code9nine, $173,315.81
 10. blazex224, $170,343.14
 11. Waffle742, $157,644.14
 12. Mr_Pingz, $132,747.39
-13. Gavinsight, $110,749.93
+13. Gavinsight, $109,869.93
 14. ShaKroN1118, $89,094.79
 15. FlyManWind, $73,594.79
 16. TheCourier2282, $54,635.17
