@@ -1,11 +1,11 @@
 Ordering balances of 172 users, please wait...
-Top balances (1/9/20, 2:00 AM)
+Top balances (1/9/20, 4:00 AM)
  ---- Balancetop -- Page 2/20 ----
 9. Tsuro, $208,049.03
-10. code9nine, $181,465.81
+10. code9nine, $176,365.81
 11. blazex224, $170,343.14
-12. Waffle742, $148,004.14
-13. Mr_Pingz, $133,441.27
+12. Waffle742, $157,644.14
+13. Mr_Pingz, $133,115.39
 14. ShaKroN1118, $89,024.79
 15. FlyManWind, $73,594.79
 16. TheCourier2282, $54,635.17
