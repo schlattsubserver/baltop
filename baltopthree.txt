@@ -1,5 +1,5 @@
 Ordering balances of 173 users, please wait...
-Top balances (1/10/20, 12:00 AM)
+Top balances (1/10/20, 2:00 AM)
  ---- Balancetop -- Page 3/20 ----
 18. mariller, $36,121.64
 19. relaxingbedo, $34,808.52
@@ -9,5 +9,5 @@ Top balances (1/10/20, 12:00 AM)
 23. Wamon_, $23,248.98
 24. Tricondemolition, $21,085.86
 25. Mattk16, $17,324.27
-26. ~Shattered, $16,591.53
+26. Shattered_Pixels, $16,590.28
 Type /balancetop 4 to read the next page.
