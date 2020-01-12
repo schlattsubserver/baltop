@@ -1,13 +1,13 @@
 Ordering balances of 182 users, please wait...
-Top balances (1/12/20, 10:00 PM)
+Top balances (1/13/20, 12:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. Shattered_Pixels, $45,523.38
-19. TheGubbinGents, $43,900.59
-20. GamerGadj, $42,266.69
-21. mariller, $36,501.64
-22. relaxingbedo, $34,808.52
-23. Ashy_One, $29,830
-24. NE7D, $27,293.57
-25. Vracti, $26,940.18
-26. ~Nathan, $23,818.49
+18. GamerGadj, $46,306.69
+19. Shattered_Pixels, $46,023.38
+20. TheGubbinGents, $43,900.59
+21. Vracti, $36,740.18
+22. mariller, $36,501.64
+23. relaxingbedo, $34,808.52
+24. pigeonchan1501, $27,231.63
+25. ~Nerd, $23,943.57
+26. Ashy_One, $23,880
 Type /balancetop 4 to read the next page.
