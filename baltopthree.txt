@@ -1,13 +1,13 @@
 Ordering balances of 182 users, please wait...
-Top balances (1/12/20, 6:00 PM)
+Top balances (1/12/20, 8:00 PM)
  ---- Balancetop -- Page 3/21 ----
-18. GamerGadj, $37,926.69
+18. GamerGadj, $40,266.69
 19. mariller, $36,501.64
 20. relaxingbedo, $34,808.52
-21. NE7D, $32,773.57
-22. Shattered_Pixels, $31,323.38
+21. ~Shattered, $33,873.38
+22. ~Nerd, $27,773.57
 23. Vracti, $26,940.18
-24. 10Nates, $23,818.49
+24. ~Nathan, $23,818.49
 25. Tricondemolition, $23,086.61
 26. Ashy_One, $21,366.37
 Type /balancetop 4 to read the next page.
