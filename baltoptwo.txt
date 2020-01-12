@@ -1,13 +1,13 @@
 Ordering balances of 180 users, please wait...
-Top balances (1/12/20, 12:00 AM)
+Top balances (1/12/20, 2:00 AM)
  ---- Balancetop -- Page 2/21 ----
-9. blazex224, $220,088.27
+9. ~Blaze, $220,088.27
 10. Tsuro, $208,049.03
-11. ~ping, $130,947.39
+11. Mr_Pingz, $126,929.39
 12. Gavinsight, $107,685.68
-13. ShaKroN1118, $89,099.79
-14. FlyManWind, $79,125.66
-15. Waffle742, $72,926
-16. TheCourier2282, $54,635.17
-17. GlueWasTaken, $38,327.96
+13. FlyManWind, $105,410.68
+14. ~Cocobob, $92,068.88
+15. ShaKroN1118, $89,099.79
+16. Waffle742, $73,351
+17. TheCourier2282, $54,635.17
 Type /balancetop 3 to read the next page.

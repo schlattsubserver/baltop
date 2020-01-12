@@ -1,13 +1,13 @@
 Ordering balances of 180 users, please wait...
-Top balances (1/12/20, 12:00 AM)
+Top balances (1/12/20, 2:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. mariller, $36,501.64
-19. relaxingbedo, $34,808.52
-20. ~Cocobob, $34,758.50
-21. ~Odin, $31,366.37
-22. ~Nathan, $29,018.49
-23. Wamon_, $23,248.98
-24. Tricondemolition, $22,936.61
-25. TheCraftyOne011, $19,236.68
-26. ~Shattered, $19,188.38
+18. GlueWasTaken, $38,327.96
+19. mariller, $36,501.64
+20. relaxingbedo, $34,808.52
+21. ~Nathan, $30,018.49
+22. ~Nerd, $24,959.57
+23. Tricondemolition, $22,936.61
+24. GamerGadj, $22,726.69
+25. ~Odin, $21,366.37
+26. TheCraftyOne011, $19,236.68
 Type /balancetop 4 to read the next page.
