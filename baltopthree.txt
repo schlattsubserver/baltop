@@ -1,13 +1,13 @@
 Ordering balances of 180 users, please wait...
-Top balances (1/12/20, 4:00 AM)
+Top balances (1/12/20, 6:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. GlueWasTaken, $38,327.96
-19. mariller, $36,501.64
-20. relaxingbedo, $34,808.52
-21. ~Nathan, $30,018.49
-22. NE7D, $25,554.57
-23. Tricondemolition, $22,936.61
-24. GamerGadj, $22,726.69
-25. ~Shattered, $21,423.38
-26. Ashy_One, $21,366.37
+18. mariller, $36,501.64
+19. relaxingbedo, $34,808.52
+20. GamerGadj, $30,426.69
+21. ~Nathan, $29,818.49
+22. Vracti, $26,940.18
+23. ~Nerd, $25,554.57
+24. Tricondemolition, $22,936.61
+25. Ashy_One, $21,366.37
+26. ~Shattered, $20,123.38
 Type /balancetop 4 to read the next page.
