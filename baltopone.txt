@@ -1,11 +1,11 @@
 Ordering balances of 182 users, please wait...
-Top balances (1/13/20, 12:00 AM)
+Top balances (1/13/20, 2:00 AM)
  ---- Balancetop -- Page 1/21 ----
-Server Total: $4,911,004.29
-1. ~Wheezy, $615,392.78
-2. alexsam26_CTLNK, $500,256.89
-3. jswilk, $468,372.35
-4. Tsarcasm, $453,885.75
+Server Total: $4,910,460.17
+1. WheezyGold7931, $615,292.78
+2. ~cutlink, $499,256.89
+3. jswilk, $467,892.35
+4. Tsarcasm, $453,959.75
 5. Spongeffect, $311,229.42
 6. Beachfront, $300,270.86
 7. code9nine, $238,323.81
