@@ -1,7 +1,7 @@
 Ordering balances of 182 users, please wait...
-Top balances (1/13/20, 2:00 PM)
+Top balances (1/13/20, 4:00 PM)
  ---- Balancetop -- Page 1/21 ----
-Server Total: $4,964,633.42
+Server Total: $4,941,208.42
 1. WheezyGold7931, $635,287.78
 2. alexsam26_CTLNK, $498,616.89
 3. jswilk, $467,892.35
