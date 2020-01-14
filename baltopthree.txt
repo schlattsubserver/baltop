@@ -1,13 +1,13 @@
 Ordering balances of 184 users, please wait...
-Top balances (1/14/20, 10:00 PM)
+Top balances (1/15/20, 12:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. GlueWasTaken, $82,747.81
-19. Soul_R3nder, $73,604.71
-20. ~RB, $51,771.69
+18. Soul_R3nder, $86,004.71
+19. GlueWasTaken, $82,747.81
+20. GamerGadj, $51,771.69
 21. Ashy_One, $48,959.45
 22. pigeonchan1501, $48,662.25
 23. Vracti, $43,741.18
-24. Henessly, $39,854.82
-25. mariller, $36,501.64
+24. mariller, $36,501.64
+25. Henessly, $36,185.82
 26. relaxingbedo, $34,808.52
 Type /balancetop 4 to read the next page.
