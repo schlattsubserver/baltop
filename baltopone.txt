@@ -1,9 +1,9 @@
-Ordering balances of 183 users, please wait...
-Top balances (1/14/20, 6:00 AM)
+Ordering balances of 184 users, please wait...
+Top balances (1/14/20, 8:00 AM)
  ---- Balancetop -- Page 1/21 ----
-Server Total: $5,237,400.56
-1. WheezyGold7931, $575,847.06
-2. ~cutlink, $524,216.89
+Server Total: $5,285,664.12
+1. WheezyGold7931, $576,847.06
+2. alexsam26_CTLNK, $524,216.89
 3. Tsarcasm, $473,519.44
 4. jswilk, $467,892.35
 5. Mr_Pingz, $317,867.66

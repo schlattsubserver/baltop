@@ -1,13 +1,13 @@
-Ordering balances of 183 users, please wait...
-Top balances (1/14/20, 6:00 AM)
+Ordering balances of 184 users, please wait...
+Top balances (1/14/20, 8:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. ~Glue, $85,341.81
+18. ~Glue, $82,999.81
 19. GamerGadj, $53,421.69
-20. ~Pigeon, $51,871.26
-21. Vracti, $44,740.18
-22. mariller, $36,501.64
-23. Ashy_One, $36,481
+20. ~Pigeon, $49,202.26
+21. Ashy_One, $47,481
+22. Vracti, $43,741.18
+23. mariller, $36,501.64
 24. relaxingbedo, $34,808.52
-25. Soul_R3nder, $28,647.15
+25. Henessly, $31,954.82
 26. 10Nates, $26,788.49
 Type /balancetop 4 to read the next page.
