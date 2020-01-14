@@ -1,13 +1,13 @@
-Ordering balances of 182 users, please wait...
-Top balances (1/14/20, 2:00 AM)
+Ordering balances of 183 users, please wait...
+Top balances (1/14/20, 4:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. pigeonchan1501, $63,193.26
-19. GamerGadj, $49,421.69
-20. Vracti, $36,740.18
-21. mariller, $36,501.64
-22. relaxingbedo, $34,808.52
-23. TheGubbinGents, $27,460.95
-24. ~Odin, $26,481
-25. 10Nates, $23,818.49
-26. Tricondemolition, $23,086.61
+18. ~GLUE, $66,981.81
+19. pigeonchan1501, $63,193.26
+20. GamerGadj, $49,421.69
+21. Henessly, $40,587.01
+22. Soul_R3nder, $38,647.15
+23. Vracti, $36,740.18
+24. mariller, $36,501.64
+25. relaxingbedo, $34,808.52
+26. 10Nates, $26,788.49
 Type /balancetop 4 to read the next page.
