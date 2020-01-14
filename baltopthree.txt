@@ -1,5 +1,5 @@
 Ordering balances of 184 users, please wait...
-Top balances (1/14/20, 4:00 PM)
+Top balances (1/14/20, 6:00 PM)
  ---- Balancetop -- Page 3/21 ----
 18. GlueWasTaken, $82,747.81
 19. GamerGadj, $51,621.69
@@ -9,5 +9,5 @@ Top balances (1/14/20, 4:00 PM)
 23. mariller, $36,501.64
 24. relaxingbedo, $34,808.52
 25. 10Nates, $26,788.49
-26. Soul_R3nder, $26,095.33
+26. Tricondemolition, $23,086.61
 Type /balancetop 4 to read the next page.
