@@ -1,13 +1,13 @@
 Ordering balances of 182 users, please wait...
-Top balances (1/14/20, 12:00 AM)
+Top balances (1/14/20, 2:00 AM)
  ---- Balancetop -- Page 2/21 ----
-9. ~ping, $217,519.38
-10. Tsuro, $202,467.03
-11. Akonyan, $191,142.10
-12. ~Cocobob, $185,958.91
-13. Waffle742, $132,253.60
-14. FlyManWind, $125,853.18
-15. Gavinsight, $92,379.43
+9. blazex224, $218,875.26
+10. ~ping, $217,195.38
+11. Tsuro, $202,467.03
+12. Akonyan, $191,142.10
+13. FlyManWind, $132,290.18
+14. Waffle742, $132,253.60
+15. Gavinsight, $92,879.43
 16. TheCourier2282, $89,885.17
 17. ShaKroN1118, $89,104.79
 Type /balancetop 3 to read the next page.
