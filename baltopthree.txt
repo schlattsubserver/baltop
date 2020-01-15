@@ -1,13 +1,13 @@
 Ordering balances of 184 users, please wait...
-Top balances (1/15/20, 8:00 PM)
+Top balances (1/15/20, 10:00 PM)
  ---- Balancetop -- Page 3/21 ----
-18. ShaKroN1118, $89,109.79
-19. GlueWasTaken, $63,206.18
-20. Recon_Streams, $54,902.92
-21. GamerGadj, $49,451.69
-22. pigeonchan1501, $48,731.25
-23. Vracti, $43,741.18
-24. mariller, $36,691.64
-25. relaxingbedo, $34,808.52
-26. 10Nates, $34,088.49
+18. GlueWasTaken, $63,206.18
+19. Recon_Streams, $54,902.92
+20. ~RB, $49,351.69
+21. pigeonchan1501, $48,731.25
+22. Vracti, $43,741.18
+23. mariller, $36,691.64
+24. relaxingbedo, $34,808.52
+25. 10Nates, $34,088.49
+26. ~Odin, $27,720.91
 Type /balancetop 4 to read the next page.
