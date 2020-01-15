@@ -1,13 +1,13 @@
 Ordering balances of 184 users, please wait...
-Top balances (1/15/20, 2:00 AM)
+Top balances (1/15/20, 4:00 AM)
  ---- Balancetop -- Page 3/21 ----
-18. ~Glue, $63,348.81
-19. ~Recon, $55,802.92
+18. ~Glue, $63,286.18
+19. Recon_Streams, $55,802.92
 20. GamerGadj, $51,771.69
 21. Ashy_One, $48,959.45
-22. ~Pigeon, $48,612.25
+22. pigeonchan1501, $48,612.25
 23. Vracti, $43,741.18
-24. mariller, $36,501.64
+24. mariller, $36,691.64
 25. relaxingbedo, $34,808.52
-26. ~Nathan, $34,088.49
+26. 10Nates, $34,088.49
 Type /balancetop 4 to read the next page.
