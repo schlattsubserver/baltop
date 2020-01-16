@@ -1,13 +1,12 @@
-Ordering balances of 184 users, please wait...
-Top balances (1/16/20, 10:00 PM)
+Top balances (1/16/20, 11:58 PM)
  ---- Balancetop -- Page 3/21 ----
-18. GlueWasTaken, $63,206.18
+18. FlyManWind, $57,355.45
 19. Recon_Streams, $54,902.92
 20. pigeonchan1501, $48,731.25
-21. Vracti, $43,741.18
-22. ~RB, $42,831.69
-23. mariller, $36,691.64
-24. relaxingbedo, $34,808.52
-25. 10Nates, $34,088.49
-26. Ashy_One, $27,468.25
+21. ~Nathan, $44,445.99
+22. Vracti, $43,741.18
+23. GamerGadj, $42,831.69
+24. mariller, $36,691.64
+25. relaxingbedo, $34,808.52
+26. Soul_R3nder, $30,601.31
 Type /balancetop 4 to read the next page.
