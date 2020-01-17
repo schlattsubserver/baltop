@@ -1,12 +1,13 @@
-Top balances (1/16/20, 11:58 PM)
+Ordering balances of 185 users, please wait...
+Top balances (1/17/20, 2:00 AM)
  ---- Balancetop -- Page 2/21 ----
-9. code9nine, $238,323.81
-10. ~E, $226,752.83
+9. ~E, $239,388.27
+10. code9nine, $238,323.81
 11. Tsuro, $184,667.03
 12. Waffle742, $135,303.60
-13. blazex224, $127,169.12
-14. Henessly, $123,785.50
+13. Henessly, $123,785.50
+14. ~Blaze, $123,647.64
 15. Gavinsight, $93,146.93
 16. TheCourier2282, $89,885.17
-17. ShaKroN1118, $89,114.79
+17. ShaKroN1118, $89,133.85
 Type /balancetop 3 to read the next page.
