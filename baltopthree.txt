@@ -1,10 +1,10 @@
 Ordering balances of 185 users, please wait...
-Top balances (1/17/20, 2:00 AM)
+Top balances (1/17/20, 4:00 AM)
  ---- Balancetop -- Page 3/21 ----
 18. FlyManWind, $57,355.45
-19. Recon_Streams, $54,902.92
+19. ~Recon, $54,262.92
 20. pigeonchan1501, $48,731.25
-21. ~Nathan, $44,445.99
+21. ~Nathan, $44,145.99
 22. Vracti, $43,741.18
 23. GamerGadj, $43,231.69
 24. mariller, $36,691.64
