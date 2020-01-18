@@ -1,11 +1,11 @@
 Ordering balances of 186 users, please wait...
-Top balances (1/18/20, 12:00 AM)
+Top balances (1/18/20, 2:00 AM)
  ---- Balancetop -- Page 1/21 ----
-Server Total: $5,476,819.27
-1. ~Cocobob, $667,158.15
+Server Total: $5,486,196.77
+1. Cocobob678, $671,657.49
 2. WheezyGold7931, $641,105.65
-3. Tsarcasm, $513,748.44
-4. alexsam26_CTLNK, $505,968.36
+3. Tsarcasm, $514,548.44
+4. ~cutlink, $505,968.36
 5. jswilk, $455,362.35
 6. Mr_Pingz, $346,715.66
 7. Spongeffect, $308,729.42
