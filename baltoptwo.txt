@@ -1,5 +1,5 @@
 Ordering balances of 186 users, please wait...
-Top balances (1/18/20, 2:00 AM)
+Top balances (1/18/20, 4:00 AM)
  ---- Balancetop -- Page 2/21 ----
 9. code9nine, $238,323.81
 10. Tsuro, $184,667.03
@@ -9,5 +9,5 @@ Top balances (1/18/20, 2:00 AM)
 14. TheCourier2282, $89,885.17
 15. ShaKroN1118, $89,138.85
 16. FlyManWind, $84,807.98
-17. ~Recon, $53,462.92
+17. Recon_Streams, $53,462.92
 Type /balancetop 3 to read the next page.
