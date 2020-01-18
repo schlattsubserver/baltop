@@ -1,13 +1,13 @@
 Ordering balances of 186 users, please wait...
-Top balances (1/18/20, 2:00 PM)
+Top balances (1/18/20, 4:00 PM)
  ---- Balancetop -- Page 3/21 ----
-18. GamerGadj, $50,191.69
-19. pigeonchan1501, $48,731.25
-20. 10Nates, $44,145.99
-21. Vracti, $43,741.18
-22. Waffle742, $43,178.60
+18. pigeonchan1501, $48,731.25
+19. 10Nates, $44,145.99
+20. Vracti, $43,741.18
+21. Waffle742, $43,273.60
+22. ~RB, $40,541.69
 23. mariller, $36,691.64
 24. relaxingbedo, $34,808.52
-25. ~E, $32,754.05
+25. ~E, $33,377.26
 26. LuxCapacitator, $28,632.33
 Type /balancetop 4 to read the next page.
