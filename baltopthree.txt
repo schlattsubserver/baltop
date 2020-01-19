@@ -1,13 +1,13 @@
-Ordering balances of 190 users, please wait...
-Top balances (1/19/20, 4:00 PM)
+Ordering balances of 192 users, please wait...
+Top balances (1/19/20, 6:00 PM)
  ---- Balancetop -- Page 3/22 ----
-18. ~Recon, $53,462.92
+18. Recon_Streams, $53,462.92
 19. pigeonchan1501, $45,132.25
 20. Waffle742, $44,848.60
-21. ~Nathan, $44,145.99
+21. 10Nates, $44,145.99
 22. mariller, $37,071.64
 23. relaxingbedo, $34,808.52
 24. ~ako, $32,712.41
 25. LuxCapacitator, $28,632.33
-26. ~Odin, $27,249.50
+26. Ashy_One, $27,249.50
 Type /balancetop 4 to read the next page.
