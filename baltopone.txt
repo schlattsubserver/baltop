@@ -1,13 +1,13 @@
-Ordering balances of 197 users, please wait...
-Top balances (1/23/20, 6:00 PM)
- ---- Balancetop -- Page 1/22 ----
-Server Total: $5,933,640.70
-1. WheezyGold7931, $757,705.65
-2. Tsarcasm, $593,791.19
+Ordering balances of 198 users, please wait...
+Top balances (1/23/20, 8:00 PM)
+ ---- Balancetop -- Page 1/23 ----
+Server Total: $5,895,138.70
+1. WheezyGold7931, $742,705.65
+2. Tsarcasm, $593,191.19
 3. Mr_Pingz, $569,887.66
-4. alexsam26_CTLNK, $504,608.36
-5. Cocobob678, $461,237.82
-6. jswilk, $453,652.35
+4. ~cutlink, $504,608.36
+5. jswilk, $453,652.35
+6. Cocobob678, $452,757.82
 7. Spongeffect, $308,729.42
 8. Beachfront, $300,270.86
 Type /balancetop 2 to read the next page.
