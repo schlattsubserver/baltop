@@ -1,11 +1,11 @@
 Ordering balances of 201 users, please wait...
-Top balances (1/25/20, 12:00 AM)
+Top balances (1/25/20, 2:00 AM)
  ---- Balancetop -- Page 2/23 ----
 9. code9nine, $259,693.81
 10. Tsuro, $184,667.03
 11. FlyManWind, $160,163.80
 12. TheCraftyOne011, $150,385.06
-13. Henessly, $138,456.75
+13. Henessly, $136,906.75
 14. blazex224, $123,906.70
 15. Gavinsight, $93,146.93
 16. TheCourier2282, $89,885.17
