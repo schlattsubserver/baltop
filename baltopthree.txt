@@ -1,9 +1,9 @@
 Ordering balances of 203 users, please wait...
-Top balances (1/26/20, 8:00 PM)
+Top balances (1/26/20, 10:00 PM)
  ---- Balancetop -- Page 3/23 ----
 18. Recon_Streams, $53,462.92
 19. Vracti, $50,621.18
-20. Waffle742, $44,848.60
+20. Waffle742, $45,228.60
 21. pigeonchan1501, $44,426.51
 22. 10Nates, $37,945.99
 23. mariller, $37,071.64
