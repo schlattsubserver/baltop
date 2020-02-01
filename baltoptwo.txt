@@ -1,10 +1,10 @@
 Ordering balances of 207 users, please wait...
-Top balances (1/31/20, 10:00 PM)
+Top balances (2/1/20, 12:00 AM)
  ---- Balancetop -- Page 2/24 ----
-9. ~coco, $250,967.49
+9. ~coco, $230,967.49
 10. TheCraftyOne011, $208,894.05
 11. Tsuro, $184,667.03
-12. FlyManWind, $159,322.80
+12. FlyManWind, $158,682.80
 13. Henessly, $141,618.69
 14. blazex224, $123,906.70
 15. Gavinsight, $93,146.93
