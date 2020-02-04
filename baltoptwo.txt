@@ -1,5 +1,5 @@
 Ordering balances of 211 users, please wait...
-Top balances (2/4/20, 12:00 AM)
+Top balances (2/4/20, 2:00 AM)
  ---- Balancetop -- Page 2/24 ----
 9. Cocobob678, $230,967.49
 10. TheCraftyOne011, $209,509.28
@@ -9,5 +9,5 @@ Top balances (2/4/20, 12:00 AM)
 14. blazex224, $123,906.70
 15. GlueWasTaken, $98,910.93
 16. Gavinsight, $93,146.93
-17. ~ako, $91,212.55
+17. Akonyan, $91,212.55
 Type /balancetop 3 to read the next page.
