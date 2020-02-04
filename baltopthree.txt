@@ -1,13 +1,13 @@
 Ordering balances of 211 users, please wait...
-Top balances (2/3/20, 6:00 PM)
+Top balances (2/3/20, 8:00 PM)
  ---- Balancetop -- Page 3/24 ----
 18. ShaKroN1118, $89,138.85
-19. ~ako, $74,261.24
+19. ~ako, $74,914.05
 20. 10Nates, $55,845.99
 21. Recon_Streams, $53,462.92
 22. Vracti, $50,621.18
 23. Waffle742, $45,418.60
 24. pigeonchan1501, $44,426.51
-25. mariller, $37,071.64
-26. relaxingbedo, $34,853.52
+25. relaxingbedo, $34,853.52
+26. mariller, $34,311.64
 Type /balancetop 4 to read the next page.
