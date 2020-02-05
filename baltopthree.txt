@@ -1,13 +1,13 @@
 Ordering balances of 212 users, please wait...
-Top balances (2/4/20, 6:00 PM)
+Top balances (2/4/20, 8:00 PM)
  ---- Balancetop -- Page 3/24 ----
-18. TheCourier2282, $89,885.17
-19. ShaKroN1118, $89,138.85
-20. 10Nates, $55,845.99
-21. Recon_Streams, $53,462.92
-22. Vracti, $50,621.18
-23. Waffle742, $45,418.60
-24. pigeonchan1501, $44,426.51
-25. relaxingbedo, $34,853.52
-26. mariller, $34,311.64
+18. ShaKroN1118, $89,138.85
+19. 10Nates, $55,845.99
+20. Recon_Streams, $53,462.92
+21. Vracti, $50,621.18
+22. Waffle742, $45,418.60
+23. pigeonchan1501, $44,426.51
+24. relaxingbedo, $34,853.52
+25. mariller, $34,311.64
+26. Shattered_Pixels, $32,786.70
 Type /balancetop 4 to read the next page.
