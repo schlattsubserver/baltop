@@ -1,12 +1,12 @@
-Ordering balances of 217 users, please wait...
-Top balances (2/9/20, 2:00 PM)
+Ordering balances of 219 users, please wait...
+Top balances (2/9/20, 4:00 PM)
  ---- Balancetop -- Page 3/25 ----
 18. ShaKroN1118, $89,138.85
 19. Mr_Pingz, $70,047.66
 20. 10Nates, $55,845.99
-21. Recon_Streams, $53,462.92
+21. Recon_Streams, $52,502.92
 22. Vracti, $50,621.18
-23. Mixdown, $49,258.25
+23. Mixdown, $49,458.25
 24. Waffle742, $45,418.60
 25. pigeonchan1501, $44,426.51
 26. relaxingbedo, $34,868.52
