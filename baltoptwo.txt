@@ -1,13 +1,10 @@
-Ordering balances of 219 users, please wait...
-Top balances (2/9/20, 8:00 PM)
- ---- Balancetop -- Page 2/25 ----
-9. Cocobob678, $230,967.49
-10. TheCraftyOne011, $223,192.37
-11. ~Glue, $158,479.93
-12. Tsuro, $155,477.03
-13. FlyManWind, $153,992.80
-14. Henessly, $146,408.69
-15. blazex224, $123,906.70
-16. Gavinsight, $93,146.93
-17. TheCourier2282, $89,885.17
-Type /balancetop 3 to read the next page.
+Top balances (2/10/20, 6:00 PM)
+ ---- Balancetop -- Page 2/2 ----
+9. Cryobolic, $0
+10. legoloncher, $0
+11. GlueWasTaken, $0
+12. Pastor_Nick, $0
+13. Deltair, $0
+14. Akonyan, $0
+15. makoriot, $0
+16. Tsarcasm, $0
