@@ -1,12 +1,12 @@
-Top balances (2/11/20, 3:58 PM)
+Top balances (2/11/20, 6:00 PM)
  ---- Balancetop -- Page 3/6 ----
-18. AxissNova, $440
-19. landospuk, $0
-20. 10Nates, $0
+18. landospuk, $3,200
+19. jjjbers, $1,000
+20. AxissNova, $440
 21. Krammittt, $0
-22. GaNeBaL, $0
-23. something1121, $0
-24. Vracti, $0
-25. TheCraftyOne011, $0
-26. Asteria_Nyx, $0
+22. Asteria_Nyx, $0
+23. Ashy_One, $0
+24. mikeanderson, $0
+25. Ambassador_Kosh, $0
+26. Soul_R3nder, $0
 Type /balancetop 4 to read the next page.
