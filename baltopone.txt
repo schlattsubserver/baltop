@@ -1,6 +1,6 @@
-Top balances (2/11/20, 2:00 AM)
+Top balances (2/11/20, 4:00 AM)
  ---- Balancetop -- Page 1/6 ----
-Server Total: $15,271,006.09
+Server Total: $15,270,106.09
 1. jswilk, $5,000,800
 2. GlueWasTaken, $3,121,850
 3. Recon_Streams, $1,425,200
