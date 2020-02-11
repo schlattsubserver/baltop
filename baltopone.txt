@@ -1,12 +1,12 @@
-Top balances (2/11/20, 12:00 AM)
- ---- Balancetop -- Page 1/5 ----
-Server Total: $13,847,156.09
+Top balances (2/11/20, 2:00 AM)
+ ---- Balancetop -- Page 1/6 ----
+Server Total: $15,271,006.09
 1. jswilk, $5,000,800
 2. GlueWasTaken, $3,121,850
 3. Recon_Streams, $1,425,200
-4. skraskk, $1,312,400
-5. Pastor_Nick, $950,001
-6. legoloncher, $853,437.50
-7. WheezyGold7931, $435,600
-8. NE7D, $256,400
+4. Melenni, $1,423,850
+5. skraskk, $1,312,400
+6. Pastor_Nick, $950,001
+7. legoloncher, $853,437.50
+8. WheezyGold7931, $467,800
 Type /balancetop 2 to read the next page.
