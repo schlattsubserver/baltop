@@ -1,12 +1,12 @@
-Top balances (2/11/20, 2:00 PM)
+Top balances (2/11/20, 3:58 PM)
  ---- Balancetop -- Page 2/6 ----
 9. NE7D, $256,400
 10. GeorgeBush240, $187,300
 11. Shattered_Pixels, $147,000
 12. Tsarcasm, $47,200
-13. Akonyan, $23,572.25
-14. alexsam26_CTLNK, $22,799.99
-15. FlyManWind, $22,299
+13. FlyManWind, $36,299
+14. Akonyan, $23,572.25
+15. alexsam26_CTLNK, $22,799.99
 16. Cryobolic, $6,756.34
 17. jjjbers, $1,000
 Type /balancetop 3 to read the next page.
