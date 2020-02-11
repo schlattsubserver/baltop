@@ -1,10 +1,12 @@
-Top balances (2/10/20, 6:00 PM)
- ---- Balancetop -- Page 2/2 ----
-9. Cryobolic, $0
-10. legoloncher, $0
-11. GlueWasTaken, $0
-12. Pastor_Nick, $0
-13. Deltair, $0
-14. Akonyan, $0
-15. makoriot, $0
-16. Tsarcasm, $0
+Top balances (2/10/20, 8:00 PM)
+ ---- Balancetop -- Page 2/4 ----
+9. FlyManWind, $22,299
+10. Cryobolic, $6,756.34
+11. AxissNova, $440
+12. Akonyan, $9.73
+13. Pastor_Nick, $1
+14. 10Nates, $0
+15. Krammittt, $0
+16. TheCraftyOne011, $0
+17. Ashy_One, $0
+Type /balancetop 3 to read the next page.

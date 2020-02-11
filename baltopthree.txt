@@ -1,2 +1,12 @@
-Top balances (2/10/20, 6:00 PM)
-Unknown chapter.
+Top balances (2/10/20, 8:00 PM)
+ ---- Balancetop -- Page 3/4 ----
+18. GlueWasTaken, $0
+19. makoriot, $0
+20. ~Turbo, $0
+21. Weheartgonzo, $0
+22. Soul_R3nder, $0
+23. zennyalt, $0
+24. code9nine, $0
+25. Deltair, $0
+26. Cocobob678, $0
+Type /balancetop 4 to read the next page.
