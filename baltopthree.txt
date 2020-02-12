@@ -1,13 +1,13 @@
-Ordering balances of 51 users, please wait...
-Top balances (2/12/20, 2:00 PM)
+Ordering balances of 52 users, please wait...
+Top balances (2/12/20, 4:00 PM)
  ---- Balancetop -- Page 3/6 ----
-18. Mixdown, $22,400
-19. Cryobolic, $6,756.34
-20. landospuk, $3,200
-21. jjjbers, $1,000
-22. AxissNova, $440
-23. chloelem, $0
-24. Krammittt, $0
-25. Asteria_Nyx, $0
-26. mikeanderson, $0
+18. Akonyan, $23,594.31
+19. Mixdown, $22,400
+20. Cryobolic, $6,756.34
+21. landospuk, $3,200
+22. jjjbers, $1,000
+23. AxissNova, $440
+24. chloelem, $0
+25. Krammittt, $0
+26. Asteria_Nyx, $0
 Type /balancetop 4 to read the next page.
