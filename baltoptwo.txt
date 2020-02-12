@@ -1,10 +1,10 @@
 Ordering balances of 51 users, please wait...
-Top balances (2/12/20, 12:00 AM)
+Top balances (2/12/20, 2:00 AM)
  ---- Balancetop -- Page 2/6 ----
-9. WheezyGold7931, $467,800
+9. WheezyGold7931, $472,400
 10. NE7D, $256,400
-11. Shattered_Pixels, $147,000
-12. GeorgeBush240, $76,400
+11. GeorgeBush240, $206,800
+12. Shattered_Pixels, $147,000
 13. Tsarcasm, $47,200
 14. FlyManWind, $36,299
 15. GaNeBaL, $25,600
