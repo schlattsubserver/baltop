@@ -1,13 +1,13 @@
-Ordering balances of 54 users, please wait...
-Top balances (2/12/20, 10:00 PM)
+Ordering balances of 57 users, please wait...
+Top balances (2/13/20, 12:00 AM)
  ---- Balancetop -- Page 2/7 ----
-9. WheezyGold7931, $471,200
-10. NE7D, $256,400
-11. landospuk, $222,700
-12. ~Odin, $220,400
-13. GeorgeBush240, $206,800
-14. Deltair, $119,950
-15. Shattered_Pixels, $47,450
+9. alexsam26_CTLNK, $540,399.99
+10. WheezyGold7931, $471,200
+11. NE7D, $256,400
+12. landospuk, $222,700
+13. ~Odin, $220,400
+14. GeorgeBush240, $206,800
+15. Deltair, $119,950
 16. Tsarcasm, $47,200
-17. FlyManWind, $36,299
+17. Shattered_Pixels, $45,050
 Type /balancetop 3 to read the next page.

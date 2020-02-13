@@ -1,13 +1,13 @@
-Ordering balances of 54 users, please wait...
-Top balances (2/12/20, 10:00 PM)
+Ordering balances of 57 users, please wait...
+Top balances (2/13/20, 12:00 AM)
  ---- Balancetop -- Page 3/7 ----
-18. GaNeBaL, $25,600
-19. Akonyan, $23,594.31
-20. Mixdown, $22,400
-21. Cryobolic, $6,756.34
-22. jjjbers, $1,000
-23. AxissNova, $440
-24. chloelem, $0
-25. Krammittt, $0
-26. MacPlaysMC13, $0
+18. FlyManWind, $36,299
+19. TheEggOnTop, $32,400
+20. GaNeBaL, $25,600
+21. Akonyan, $23,594.31
+22. Mixdown, $22,400
+23. Cryobolic, $6,756.34
+24. jjjbers, $1,000
+25. AxissNova, $440
+26. chloelem, $0
 Type /balancetop 4 to read the next page.
