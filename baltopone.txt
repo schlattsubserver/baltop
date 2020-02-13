@@ -1,12 +1,12 @@
-Ordering balances of 53 users, please wait...
-Top balances (2/12/20, 8:00 PM)
- ---- Balancetop -- Page 1/6 ----
-Server Total: $17,289,053.15
+Ordering balances of 54 users, please wait...
+Top balances (2/12/20, 10:00 PM)
+ ---- Balancetop -- Page 1/7 ----
+Server Total: $17,498,653.15
 1. jswilk, $5,000,325
 2. GlueWasTaken, $4,445,750
 3. Melenni, $1,423,850
 4. skraskk, $1,312,400
-5. Recon_Streams, $1,074,300
+5. ~Recon, $1,283,900
 6. Pastor_Nick, $930,401
 7. legoloncher, $853,437.50
 8. alexsam26_CTLNK, $540,399.99

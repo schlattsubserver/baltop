@@ -1,10 +1,10 @@
-Ordering balances of 53 users, please wait...
-Top balances (2/12/20, 8:00 PM)
- ---- Balancetop -- Page 2/6 ----
-9. ~Wheezy, $471,200
+Ordering balances of 54 users, please wait...
+Top balances (2/12/20, 10:00 PM)
+ ---- Balancetop -- Page 2/7 ----
+9. WheezyGold7931, $471,200
 10. NE7D, $256,400
 11. landospuk, $222,700
-12. Ashy_One, $220,400
+12. ~Odin, $220,400
 13. GeorgeBush240, $206,800
 14. Deltair, $119,950
 15. Shattered_Pixels, $47,450
