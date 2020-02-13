@@ -1,5 +1,5 @@
-Ordering balances of 59 users, please wait...
-Top balances (2/13/20, 12:00 PM)
+Ordering balances of 60 users, please wait...
+Top balances (2/13/20, 2:00 PM)
  ---- Balancetop -- Page 1/7 ----
 Server Total: $23,175,885.97
 1. blazex224, $5,639,100
