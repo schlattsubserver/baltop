@@ -1,7 +1,7 @@
 Ordering balances of 60 users, please wait...
-Top balances (2/13/20, 2:00 PM)
+Top balances (2/13/20, 4:00 PM)
  ---- Balancetop -- Page 3/7 ----
-18. FlyManWind, $36,299
+18. FlyManWind, $35,399
 19. TheEggOnTop, $32,400
 20. GaNeBaL, $25,600
 21. Akonyan, $23,594.31
