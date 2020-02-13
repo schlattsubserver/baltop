@@ -1,5 +1,5 @@
-Ordering balances of 57 users, please wait...
-Top balances (2/13/20, 12:00 AM)
+Ordering balances of 59 users, please wait...
+Top balances (2/13/20, 2:00 AM)
  ---- Balancetop -- Page 1/7 ----
 Server Total: $23,167,753.15
 1. ~Blaze, $5,639,100
@@ -7,7 +7,7 @@ Server Total: $23,167,753.15
 3. GlueWasTaken, $4,445,750
 4. Melenni, $1,423,850
 5. skraskk, $1,312,400
-6. ~Recon, $1,283,900
+6. Recon_Streams, $1,283,900
 7. Pastor_Nick, $930,401
 8. legoloncher, $853,437.50
 Type /balancetop 2 to read the next page.
