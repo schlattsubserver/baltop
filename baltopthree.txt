@@ -1,5 +1,5 @@
-Ordering balances of 61 users, please wait...
-Top balances (2/13/20, 6:00 PM)
+Ordering balances of 63 users, please wait...
+Top balances (2/13/20, 8:00 PM)
  ---- Balancetop -- Page 3/7 ----
 18. FlyManWind, $35,399
 19. TheEggOnTop, $32,400
@@ -8,6 +8,6 @@ Top balances (2/13/20, 6:00 PM)
 22. Mixdown, $22,400
 23. Cryobolic, $13,289.16
 24. jjjbers, $1,000
-25. AxissNova, $440
+25. AxissNova, $20
 26. chloelem, $0
 Type /balancetop 4 to read the next page.
