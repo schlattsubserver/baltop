@@ -1,7 +1,7 @@
-Ordering balances of 67 users, please wait...
-Top balances (2/14/20, 2:00 PM)
- ---- Balancetop -- Page 2/7 ----
-9. ~Wheezy, $851,406.10
+Ordering balances of 69 users, please wait...
+Top balances (2/14/20, 4:00 PM)
+ ---- Balancetop -- Page 2/8 ----
+9. legoloncher, $853,437.50
 10. Shattered_Pixels, $545,850
 11. alexsam26_CTLNK, $540,399.99
 12. NE7D, $256,400
