@@ -1,13 +1,13 @@
 Ordering balances of 66 users, please wait...
-Top balances (2/13/20, 10:00 PM)
+Top balances (2/14/20, 12:00 AM)
  ---- Balancetop -- Page 1/7 ----
-Server Total: $24,013,193.32
-1. blazex224, $5,248,101.72
+Server Total: $24,012,093.32
+1. blazex224, $5,240,945.47
 2. jswilk, $5,000,325
 3. GlueWasTaken, $4,443,350
 4. Melenni, $1,423,850
 5. skraskk, $1,312,400
 6. Recon_Streams, $1,282,900
 7. Pastor_Nick, $930,401
-8. ~Shattered, $895,850
+8. Shattered_Pixels, $895,850
 Type /balancetop 2 to read the next page.
