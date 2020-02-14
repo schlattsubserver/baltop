@@ -1,9 +1,9 @@
-Ordering balances of 66 users, please wait...
-Top balances (2/14/20, 12:00 AM)
+Ordering balances of 67 users, please wait...
+Top balances (2/14/20, 2:00 AM)
  ---- Balancetop -- Page 3/7 ----
-18. FlyManWind, $35,399
-19. TheEggOnTop, $32,400
-20. Akonyan, $29,650.56
+18. Tsarcasm, $47,200
+19. FlyManWind, $35,399
+20. TheEggOnTop, $32,400
 21. GaNeBaL, $25,600
 22. Mixdown, $22,400
 23. Cryobolic, $13,289.16
