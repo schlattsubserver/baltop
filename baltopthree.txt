@@ -1,13 +1,13 @@
-Ordering balances of 69 users, please wait...
-Top balances (2/14/20, 4:00 PM)
+Ordering balances of 73 users, please wait...
+Top balances (2/14/20, 6:00 PM)
  ---- Balancetop -- Page 3/8 ----
-18. Tsarcasm, $47,200
-19. FlyManWind, $35,399
-20. TheEggOnTop, $32,400
-21. GaNeBaL, $25,600
-22. Mixdown, $22,400
-23. Cryobolic, $13,289.16
-24. happy_socks, $2,040
-25. jay1g, $1,598.28
-26. jjjbers, $1,000
+18. Deltair, $119,950
+19. Tsarcasm, $47,200
+20. FlyManWind, $41,399
+21. TheEggOnTop, $32,400
+22. GaNeBaL, $25,600
+23. Mixdown, $22,400
+24. AxissNova, $16,641.25
+25. Cryobolic, $13,289.16
+26. happy_socks, $2,040
 Type /balancetop 4 to read the next page.
