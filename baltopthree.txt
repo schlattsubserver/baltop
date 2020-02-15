@@ -1,13 +1,13 @@
 Ordering balances of 74 users, please wait...
-Top balances (2/14/20, 8:00 PM)
+Top balances (2/14/20, 10:00 PM)
  ---- Balancetop -- Page 3/8 ----
-18. Deltair, $119,950
-19. Tsarcasm, $47,200
-20. FlyManWind, $41,399
-21. TheEggOnTop, $32,400
-22. GaNeBaL, $25,600
-23. Mixdown, $22,400
-24. AxissNova, $16,641.25
-25. Cryobolic, $13,289.16
-26. happy_socks, $2,040
+18. 10Nates, $129,000
+19. Deltair, $119,950
+20. Tsarcasm, $47,200
+21. FlyManWind, $41,399
+22. TheEggOnTop, $32,400
+23. GaNeBaL, $25,600
+24. Mixdown, $22,400
+25. AxissNova, $16,641.25
+26. Cryobolic, $13,289.16
 Type /balancetop 4 to read the next page.
