@@ -1,8 +1,8 @@
-Ordering balances of 77 users, please wait...
-Top balances (2/15/20, 8:00 AM)
+Ordering balances of 78 users, please wait...
+Top balances (2/15/20, 10:00 AM)
  ---- Balancetop -- Page 2/8 ----
 9. legoloncher, $853,437.50
-10. Shattered_Pixels, $545,850
+10. Shattered_Pixels, $547,450
 11. alexsam26_CTLNK, $540,399.99
 12. NE7D, $256,400
 13. landospuk, $222,700
