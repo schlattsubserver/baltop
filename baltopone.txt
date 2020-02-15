@@ -1,13 +1,13 @@
-Ordering balances of 73 users, please wait...
-Top balances (2/14/20, 6:00 PM)
+Ordering balances of 74 users, please wait...
+Top balances (2/14/20, 8:00 PM)
  ---- Balancetop -- Page 1/8 ----
 Server Total: $25,802,987.09
-1. GlueWasTaken, $6,117,624.61
+1. ~Glue, $6,117,624.61
 2. blazex224, $5,198,101.72
 3. jswilk, $5,080,575
 4. Melenni, $1,423,850
 5. skraskk, $1,312,400
-6. ~Recon, $1,282,900
-7. ~Wheezy, $975,001.96
+6. Recon_Streams, $1,282,900
+7. WheezyGold7931, $975,001.96
 8. Pastor_Nick, $930,401
 Type /balancetop 2 to read the next page.
