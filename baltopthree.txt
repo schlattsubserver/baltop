@@ -1,10 +1,10 @@
-Ordering balances of 86 users, please wait...
-Top balances (2/16/20, 12:00 AM)
+Ordering balances of 87 users, please wait...
+Top balances (2/16/20, 2:00 AM)
  ---- Balancetop -- Page 3/9 ----
 18. Deltair, $118,900
 19. Akonyan, $102,649.04
 20. Tsarcasm, $47,200
-21. FlyManWind, $41,399
+21. FlyManWind, $41,359
 22. TheEggOnTop, $32,400
 23. GaNeBaL, $25,600
 24. Mixdown, $22,400
