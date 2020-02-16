@@ -1,7 +1,7 @@
-Ordering balances of 87 users, please wait...
-Top balances (2/16/20, 10:00 AM)
+Ordering balances of 88 users, please wait...
+Top balances (2/16/20, 12:00 PM)
  ---- Balancetop -- Page 1/9 ----
-Server Total: $29,022,115.78
+Server Total: $29,038,515.78
 1. blazex224, $6,480,501.72
 2. GlueWasTaken, $6,151,432.81
 3. jswilk, $5,080,575
