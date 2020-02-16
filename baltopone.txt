@@ -1,9 +1,9 @@
 Ordering balances of 78 users, please wait...
-Top balances (2/15/20, 6:00 PM)
+Top balances (2/15/20, 8:00 PM)
  ---- Balancetop -- Page 1/8 ----
-Server Total: $27,596,745.29
-1. GlueWasTaken, $6,151,432.81
-2. ~Blaze, $5,198,101.72
+Server Total: $28,935,545.29
+1. ~Blaze, $6,480,501.72
+2. GlueWasTaken, $6,151,432.81
 3. jswilk, $5,080,575
 4. WheezyGold7931, $2,587,801.96
 5. Melenni, $1,423,850
