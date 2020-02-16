@@ -1,11 +1,11 @@
 Ordering balances of 87 users, please wait...
-Top balances (2/16/20, 2:00 AM)
+Top balances (2/16/20, 4:00 AM)
  ---- Balancetop -- Page 2/9 ----
 9. legoloncher, $853,437.50
 10. Shattered_Pixels, $547,450
 11. alexsam26_CTLNK, $540,399.99
-12. NE7D, $256,400
-13. landospuk, $222,700
+12. landospuk, $443,100
+13. NE7D, $256,400
 14. Ashy_One, $220,400
 15. GeorgeBush240, $206,800
 16. Tricondemolition, $148,600
