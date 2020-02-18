@@ -1,5 +1,5 @@
-Ordering balances of 116 users, please wait...
-Top balances (2/18/20, 2:00 PM)
+Ordering balances of 118 users, please wait...
+Top balances (2/18/20, 4:00 PM)
  ---- Balancetop -- Page 3/10 ----
 18. Tricondemolition, $148,600
 19. 10Nates, $129,000
@@ -8,6 +8,6 @@ Top balances (2/18/20, 2:00 PM)
 22. sbzklz, $98,700
 23. jjjbers, $91,348.84
 24. Tsarcasm, $65,053.12
-25. FlyManWind, $54,110.52
+25. FlyManWind, $37,110.52
 26. TheEggOnTop, $32,400
 Type /balancetop 4 to read the next page.
