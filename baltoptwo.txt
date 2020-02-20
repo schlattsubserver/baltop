@@ -1,5 +1,5 @@
 Ordering balances of 121 users, please wait...
-Top balances (2/20/20, 12:00 PM)
+Top balances (2/20/20, 2:00 PM)
  ---- Balancetop -- Page 2/10 ----
 9. Woodishi, $950,000
 10. legoloncher, $853,437.50
@@ -9,5 +9,5 @@ Top balances (2/20/20, 12:00 PM)
 14. landospuk, $387,084
 15. alexsam26_CTLNK, $290,399.99
 16. NE7D, $244,400
-17. ~Odin, $219,379
+17. Ashy_One, $219,379
 Type /balancetop 3 to read the next page.
