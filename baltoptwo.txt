@@ -1,8 +1,8 @@
-Ordering balances of 122 users, please wait...
-Top balances (2/20/20, 4:00 PM)
+Ordering balances of 124 users, please wait...
+Top balances (2/20/20, 6:00 PM)
  ---- Balancetop -- Page 2/10 ----
 9. Woodishi, $950,000
-10. legoloncher, $853,437.50
+10. legoloncher, $753,437.50
 11. Shattered_Pixels, $541,450
 12. GaNeBaL, $508,800
 13. Recon_Streams, $469,900
