@@ -1,13 +1,13 @@
-Ordering balances of 119 users, please wait...
-Top balances (2/19/20, 6:00 PM)
+Ordering balances of 120 users, please wait...
+Top balances (2/19/20, 8:00 PM)
  ---- Balancetop -- Page 3/10 ----
-18. Tricondemolition, $148,600
-19. 10Nates, $129,000
-20. Deltair, $128,900
-21. Akonyan, $117,049.04
-22. jjjbers, $111,358.22
-23. sbzklz, $98,700
-24. Tsarcasm, $65,053.12
-25. FlyManWind, $36,710.52
-26. TheEggOnTop, $32,400
+18. GeorgeBush240, $206,700
+19. Tricondemolition, $148,600
+20. 10Nates, $129,000
+21. Deltair, $128,900
+22. Akonyan, $117,049.04
+23. jjjbers, $111,358.22
+24. sbzklz, $98,700
+25. Tsarcasm, $65,053.12
+26. FlyManWind, $36,710.52
 Type /balancetop 4 to read the next page.
