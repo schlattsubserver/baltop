@@ -1,13 +1,13 @@
-Ordering balances of 128 users, please wait...
-Top balances (2/21/20, 8:00 PM)
+Ordering balances of 130 users, please wait...
+Top balances (2/21/20, 10:00 PM)
  ---- Balancetop -- Page 2/11 ----
-9. skraskk, $1,312,400
+9. TotallyAlias, $951,082.41
 10. legoloncher, $753,437.50
-11. ~Shattered, $545,650
-12. GaNeBaL, $508,800
-13. ~Recon, $469,000
-14. alexsam26_CTLNK, $290,399.99
-15. NE7D, $244,400
-16. ~Odin, $219,379
-17. GeorgeBush240, $206,700
+11. Soul_R3nder, $736,519.87
+12. ~Shattered, $528,829
+13. GaNeBaL, $508,800
+14. Recon_Streams, $467,959
+15. ~nerd, $360,917
+16. alexsam26_CTLNK, $290,399.99
+17. Ashy_One, $219,328
 Type /balancetop 3 to read the next page.
