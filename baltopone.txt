@@ -1,13 +1,13 @@
 Ordering balances of 138 users, please wait...
-Top balances (2/24/20, 4:00 PM)
+Top balances (2/24/20, 6:00 PM)
  ---- Balancetop -- Page 1/12 ----
-Server Total: $52,515,841.44
+Server Total: $52,514,641.44
 1. WheezyGold7931, $14,728,680.71
-2. blazex224, $14,523,202.92
+2. blazex224, $14,523,193.54
 3. jswilk, $6,977,704
 4. Pastor_Nick, $2,991,006.94
 5. Ray_Kroc, $2,423,002.81
 6. Melenni, $1,423,850
-7. Woodishi, $1,369,750
+7. Woodishi, $1,368,550
 8. skraskk, $1,312,400
 Type /balancetop 2 to read the next page.

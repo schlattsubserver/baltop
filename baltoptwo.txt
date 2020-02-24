@@ -1,5 +1,5 @@
 Ordering balances of 138 users, please wait...
-Top balances (2/24/20, 4:00 PM)
+Top balances (2/24/20, 6:00 PM)
  ---- Balancetop -- Page 2/12 ----
 9. TotallyAlias, $951,042.41
 10. legoloncher, $753,437.50
@@ -7,7 +7,7 @@ Top balances (2/24/20, 4:00 PM)
 12. jjjbers, $581,486.35
 13. Shattered_Pixels, $532,079
 14. GaNeBaL, $508,800
-15. Recon_Streams, $467,919
-16. Ashy_One, $409,768
+15. ~Recon, $467,919
+16. Ashy_One, $401,018
 17. NE7D, $350,917
 Type /balancetop 3 to read the next page.
