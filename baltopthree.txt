@@ -1,10 +1,10 @@
-Ordering balances of 142 users, please wait...
-Top balances (2/27/20, 12:00 AM)
+Ordering balances of 143 users, please wait...
+Top balances (2/27/20, 2:00 AM)
  ---- Balancetop -- Page 3/12 ----
-18. ~Cheesy, $442,594.38
+18. ~Cheesy, $441,424.38
 19. Ashy_One, $401,008
 20. NE7D, $350,917
-21. Deltair, $313,100
+21. Deltair, $323,095.50
 22. alexsam26_CTLNK, $290,399.99
 23. Tricondemolition, $148,600
 24. Akonyan, $129,263.06
