@@ -1,13 +1,13 @@
 Ordering balances of 142 users, please wait...
-Top balances (2/26/20, 10:00 PM)
+Top balances (2/27/20, 12:00 AM)
  ---- Balancetop -- Page 2/12 ----
 9. TotallyAlias, $951,042.41
 10. legoloncher, $753,437.50
-11. Soul_R3nder, $657,294.87
+11. ~Soul_R3tard, $657,094.87
 12. Shattered_Pixels, $636,654
 13. jjjbers, $581,486.35
 14. Recon_Streams, $549,519
 15. FlyManWind, $510,821.39
 16. GaNeBaL, $508,800
-17. landospuk, $474,190.26
+17. landospuk, $470,190.26
 Type /balancetop 3 to read the next page.
