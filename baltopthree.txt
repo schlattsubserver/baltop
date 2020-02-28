@@ -1,13 +1,13 @@
 Ordering balances of 143 users, please wait...
-Top balances (2/28/20, 12:00 AM)
+Top balances (2/28/20, 2:00 AM)
  ---- Balancetop -- Page 3/12 ----
 18. TheCheeseBoi, $440,784.38
 19. Ashy_One, $401,008
 20. NE7D, $350,917
 21. Deltair, $323,095.50
 22. alexsam26_CTLNK, $290,399.99
-23. Tricondemolition, $148,600
-24. Akonyan, $129,263.06
-25. 10Nates, $129,000
-26. sbzklz, $98,700
+23. CVReaper, $211,600
+24. Tricondemolition, $148,600
+25. Akonyan, $129,263.06
+26. 10Nates, $129,000
 Type /balancetop 4 to read the next page.
