@@ -1,13 +1,13 @@
 Ordering balances of 159 users, please wait...
-Top balances (3/3/20, 6:00 PM)
+Top balances (3/3/20, 8:00 PM)
  ---- Balancetop -- Page 2/13 ----
-9. skraskk, $1,312,400
-10. TotallyAlias, $951,042.41
-11. legoloncher, $753,437.50
-12. Shattered_Pixels, $626,732.99
-13. Recon_Streams, $588,919
-14. jjjbers, $581,486.35
-15. FlyManWind, $510,621.39
-16. GaNeBaL, $508,800
-17. landospuk, $506,097.26
+9. Mattk16, $1,359,984.06
+10. skraskk, $1,312,400
+11. TotallyAlias, $951,042.41
+12. legoloncher, $753,437.50
+13. Shattered_Pixels, $628,232.99
+14. Recon_Streams, $588,919
+15. jjjbers, $581,486.35
+16. FlyManWind, $510,621.39
+17. GaNeBaL, $508,800
 Type /balancetop 3 to read the next page.
