@@ -1,11 +1,11 @@
 Ordering balances of 160 users, please wait...
-Top balances (3/4/20, 4:00 PM)
+Top balances (3/4/20, 6:00 PM)
  ---- Balancetop -- Page 2/13 ----
 9. Mattk16, $1,359,984.06
 10. skraskk, $1,312,400
 11. TotallyAlias, $951,042.41
 12. legoloncher, $753,437.50
-13. Shattered_Pixels, $626,432.99
+13. Shattered_Pixels, $627,807.99
 14. Recon_Streams, $588,919
 15. jjjbers, $581,486.35
 16. FlyManWind, $510,621.39
