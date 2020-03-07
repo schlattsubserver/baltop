@@ -1,13 +1,13 @@
 Ordering balances of 163 users, please wait...
-Top balances (3/6/20, 6:00 PM)
+Top balances (3/6/20, 8:00 PM)
  ---- Balancetop -- Page 3/13 ----
-18. GaNeBaL, $508,800
-19. landospuk, $503,847.26
-20. NE7D, $350,917
-21. Ashy_One, $337,037
-22. alexsam26_CTLNK, $290,399.99
-23. Deltair, $256,600.50
-24. TheCheeseBoi, $241,609.39
-25. CVReaper, $211,600
-26. Tricondemolition, $148,600
+18. FlyManWind, $510,621.39
+19. GaNeBaL, $508,800
+20. landospuk, $503,847.26
+21. NE7D, $350,917
+22. Ashy_One, $337,037
+23. alexsam26_CTLNK, $290,399.99
+24. Deltair, $266,600.50
+25. TheCheeseBoi, $241,609.39
+26. CVReaper, $211,600
 Type /balancetop 4 to read the next page.
