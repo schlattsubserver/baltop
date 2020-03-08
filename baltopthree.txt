@@ -1,8 +1,8 @@
 Ordering balances of 165 users, please wait...
-Top balances (3/8/20, 12:00 PM)
+Top balances (3/8/20, 2:00 PM)
  ---- Balancetop -- Page 3/13 ----
-18. FlyManWind, $510,621.39
-19. GaNeBaL, $508,800
+18. GaNeBaL, $508,800
+19. FlyManWind, $508,246.39
 20. landospuk, $503,847.26
 21. NE7D, $350,917
 22. Ashy_One, $337,037
