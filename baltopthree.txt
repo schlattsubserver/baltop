@@ -1,5 +1,5 @@
 Ordering balances of 166 users, please wait...
-Top balances (3/8/20, 8:00 PM)
+Top balances (3/8/20, 10:00 PM)
  ---- Balancetop -- Page 3/14 ----
 18. GaNeBaL, $508,800
 19. FlyManWind, $507,321.39
@@ -9,5 +9,5 @@ Top balances (3/8/20, 8:00 PM)
 23. alexsam26_CTLNK, $290,399.99
 24. Deltair, $266,600.50
 25. TheCheeseBoi, $241,609.39
-26. AxissNova, $214,858.25
+26. AxissNova, $214,438.25
 Type /balancetop 4 to read the next page.
