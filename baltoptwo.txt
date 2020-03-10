@@ -1,13 +1,13 @@
 Ordering balances of 168 users, please wait...
-Top balances (3/10/20, 4:00 PM)
+Top balances (3/10/20, 6:00 PM)
  ---- Balancetop -- Page 2/14 ----
-9. Woodishi, $1,368,550
-10. Mattk16, $1,319,984.06
-11. skraskk, $1,312,400
-12. TotallyAlias, $951,042.41
-13. Recon_Streams, $940,519
-14. SolaireOfAstoria, $922,282.02
-15. legoloncher, $753,437.50
-16. Shattered_Pixels, $650,932.99
-17. jjjbers, $581,486.35
+9. Soul_R3nder, $2,403,389.87
+10. Melenni, $1,423,850
+11. Woodishi, $1,368,550
+12. SolaireOfAstoria, $1,362,282.02
+13. skraskk, $1,312,400
+14. makoriot, $1,304,325
+15. Shattered_Pixels, $1,112,307.99
+16. TotallyAlias, $951,042.41
+17. Recon_Streams, $940,519
 Type /balancetop 3 to read the next page.
