@@ -1,13 +1,13 @@
 Ordering balances of 171 users, please wait...
-Top balances (3/10/20, 10:00 PM)
+Top balances (3/11/20, 12:00 AM)
  ---- Balancetop -- Page 3/14 ----
 18. legoloncher, $753,437.50
 19. Deltair, $732,200.50
 20. AxissNova, $684,438.25
 21. 10Nates, $599,000
 22. jjjbers, $581,486.35
-23. Henessly, $528,836
-24. GaNeBaL, $508,800
-25. FlyManWind, $507,321.39
-26. landospuk, $499,147.26
+23. GaNeBaL, $508,800
+24. FlyManWind, $507,321.39
+25. landospuk, $499,147.26
+26. Baseline, $478,550
 Type /balancetop 4 to read the next page.
