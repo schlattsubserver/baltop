@@ -1,5 +1,5 @@
 Ordering balances of 173 users, please wait...
-Top balances (3/13/20, 8:00 PM)
+Top balances (3/13/20, 10:00 PM)
  ---- Balancetop -- Page 2/14 ----
 9. Soul_R3nder, $2,403,389.87
 10. Melenni, $1,423,850
@@ -7,7 +7,7 @@ Top balances (3/13/20, 8:00 PM)
 12. SolaireOfAstoria, $1,362,282.02
 13. skraskk, $1,312,400
 14. Shattered_Pixels, $1,124,597.99
-15. makoriot, $1,077,150
+15. makoriot, $1,067,150
 16. yungthrussy, $1,059,600
 17. TotallyAlias, $952,042.41
 Type /balancetop 3 to read the next page.
