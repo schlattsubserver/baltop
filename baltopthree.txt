@@ -1,13 +1,13 @@
 Ordering balances of 173 users, please wait...
-Top balances (3/17/20, 8:00 PM)
+Top balances (3/17/20, 10:00 PM)
  ---- Balancetop -- Page 3/14 ----
 18. Recon_Streams, $940,519
 19. legoloncher, $753,437.50
-20. Deltair, $732,200.50
-21. AxissNova, $682,518.25
-22. 10Nates, $599,000
-23. Henessly, $589,786
-24. jjjbers, $581,486.35
-25. GaNeBaL, $508,800
-26. FlyManWind, $507,321.39
+20. AxissNova, $682,518.25
+21. 10Nates, $599,000
+22. Henessly, $589,786
+23. jjjbers, $581,486.35
+24. GaNeBaL, $508,800
+25. FlyManWind, $507,321.39
+26. Deltair, $482,200.50
 Type /balancetop 4 to read the next page.
