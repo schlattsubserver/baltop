@@ -1,10 +1,10 @@
 Ordering balances of 182 users, please wait...
-Top balances (3/29/20, 8:00 PM)
+Top balances (3/29/20, 10:00 PM)
  ---- Balancetop -- Page 2/15 ----
 9. Pastor_Nick, $2,652,381.31
 10. Shattered_Pixels, $1,575,697.99
 11. Melenni, $1,423,850
-12. ~Solaire, $1,408,282.02
+12. SolaireOfAstoria, $1,408,032.02
 13. Woodishi, $1,318,550
 14. skraskk, $1,312,400
 15. makoriot, $1,067,150
