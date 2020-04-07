@@ -1,13 +1,13 @@
 Ordering balances of 188 users, please wait...
-Top balances (4/7/20, 12:00 AM)
+Top balances (4/7/20, 2:00 AM)
  ---- Balancetop -- Page 2/16 ----
-9. Pastor_Nick, $2,651,117.31
-10. Shattered_Pixels, $1,571,697.99
-11. Melenni, $1,423,850
-12. SolaireOfAstoria, $1,408,032.02
-13. Woodishi, $1,318,550
-14. skraskk, $1,312,400
-15. makoriot, $1,067,150
-16. yungthrussy, $1,059,600
-17. TotallyAlias, $952,042.41
+9. alexsam26_CTLNK, $2,873,199.99
+10. Pastor_Nick, $2,651,117.31
+11. Shattered_Pixels, $1,571,697.99
+12. Melenni, $1,423,850
+13. SolaireOfAstoria, $1,408,032.02
+14. Woodishi, $1,318,550
+15. skraskk, $1,312,400
+16. makoriot, $1,067,150
+17. yungthrussy, $1,059,600
 Type /balancetop 3 to read the next page.
