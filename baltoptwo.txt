@@ -1,13 +1,13 @@
-Ordering balances of 286 users, please wait...
-Top balances (4/11/20, 10:00 PM)
- ---- Balancetop -- Page 2/26 ----
-9. alexsam26_CTLNK, $2,773,199.99
-10. Pastor_Nick, $2,331,117.31
-11. ~Shattered, $1,585,172.99
-12. Melenni, $1,423,850
-13. Woodishi, $1,318,549
-14. skraskk, $1,312,400
-15. ~Solaire, $1,108,004.59
+Ordering balances of 305 users, please wait...
+Top balances (4/12/20, 12:00 AM)
+ ---- Balancetop -- Page 2/29 ----
+9. Mattk16, $3,028,854.06
+10. Pastor_Nick, $2,371,117.31
+11. Melenni, $1,423,850
+12. Woodishi, $1,318,549
+13. skraskk, $1,312,400
+14. Shattered_Pixels, $1,174,472.99
+15. ~Solaire, $1,073,335.90
 16. makoriot, $1,063,400
 17. yungthrussy, $1,059,600
 Type /balancetop 3 to read the next page.
