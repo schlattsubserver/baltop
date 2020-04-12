@@ -1,13 +1,13 @@
-Ordering balances of 353 users, please wait...
-Top balances (4/12/20, 4:00 PM)
+Ordering balances of 360 users, please wait...
+Top balances (4/12/20, 6:00 PM)
  ---- Balancetop -- Page 3/34 ----
-18. TotallyAlias, $956,942.39
-19. ReconBox, $940,519
-20. legoloncher, $753,437.50
-21. CatBirb, $725,000
-22. AxissNova, $670,538.25
-23. 10Nates, $599,000
-24. jjjbers, $581,486.35
-25. GaNeBaL, $508,800
-26. FlyManWind, $507,321.39
+18. yungthrussy, $1,059,600
+19. TotallyAlias, $956,942.39
+20. ReconBox, $940,519
+21. legoloncher, $753,437.50
+22. CatBirb, $725,000
+23. AxissNova, $670,503.25
+24. 10Nates, $599,000
+25. jjjbers, $581,486.35
+26. GaNeBaL, $508,800
 Type /balancetop 4 to read the next page.
