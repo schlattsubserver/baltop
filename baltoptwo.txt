@@ -1,13 +1,13 @@
-Ordering balances of 407 users, please wait...
-Top balances (4/13/20, 10:00 AM)
- ---- Balancetop -- Page 2/39 ----
-9. Mattk16, $2,881,342.06
+Ordering balances of 410 users, please wait...
+Top balances (4/13/20, 12:00 PM)
+ ---- Balancetop -- Page 2/40 ----
+9. Mattk16, $2,881,262.06
 10. Pastor_Nick, $2,370,917.31
 11. Shattered_Pixels, $2,120,212.99
 12. Baseline, $1,447,484.70
 13. Melenni, $1,422,550
 14. Woodishi, $1,318,549
 15. skraskk, $1,312,400
-16. SolaireOfAstoria, $1,068,661.28
+16. SolaireOfAstoria, $1,068,679.28
 17. makoriot, $1,063,280
 Type /balancetop 3 to read the next page.
