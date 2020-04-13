@@ -1,9 +1,9 @@
-Ordering balances of 423 users, please wait...
-Top balances (4/13/20, 4:00 PM)
- ---- Balancetop -- Page 1/41 ----
-Server Total: $98,586,961.56
-1. ~Wheezy, $14,765,531.70
-2. ~Blaze, $14,635,073.34
+Ordering balances of 429 users, please wait...
+Top balances (4/13/20, 6:00 PM)
+ ---- Balancetop -- Page 1/42 ----
+Server Total: $99,059,530.50
+1. WheezyGold7931, $14,811,531.70
+2. blazex224, $14,635,073.34
 3. Ray_Kroc, $9,531,402.81
 4. alexsam26_CTLNK, $8,582,089.99
 5. jswilk, $8,242,102.75
