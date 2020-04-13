@@ -1,7 +1,7 @@
-Ordering balances of 402 users, please wait...
-Top balances (4/13/20, 6:00 AM)
+Ordering balances of 403 users, please wait...
+Top balances (4/13/20, 8:00 AM)
  ---- Balancetop -- Page 1/39 ----
-Server Total: $98,211,439.75
+Server Total: $98,230,658.82
 1. WheezyGold7931, $14,719,531.70
 2. blazex224, $14,683,017.48
 3. Ray_Kroc, $9,531,402.81
