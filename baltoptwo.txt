@@ -1,13 +1,12 @@
-Ordering balances of 452 users, please wait...
-Top balances (4/14/20, 10:00 AM)
+Top balances (4/14/20, 11:59 AM)
  ---- Balancetop -- Page 2/44 ----
 9. Mattk16, $2,581,634.06
-10. Pastor_Nick, $2,370,917.31
-11. Shattered_Pixels, $1,834,915.74
+10. ~PastorNick, $2,370,917.31
+11. Shattered_Pixels, $1,834,965.74
 12. Melenni, $1,422,550
 13. Woodishi, $1,318,549
 14. skraskk, $1,312,400
 15. Baseline, $1,147,814.70
-16. SolaireOfAstoria, $1,120,558.59
+16. ~Solaire, $1,120,516.59
 17. makoriot, $1,063,280
 Type /balancetop 3 to read the next page.
