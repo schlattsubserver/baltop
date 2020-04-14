@@ -1,13 +1,13 @@
-Ordering balances of 456 users, please wait...
-Top balances (4/14/20, 2:00 PM)
- ---- Balancetop -- Page 3/44 ----
-18. yungthrussy, $1,059,600
-19. TotallyAlias, $956,042.39
-20. ReconBox, $940,519
-21. legoloncher, $753,437.50
-22. CatBirb, $724,600
-23. 10Nates, $599,000
-24. jjjbers, $581,486.35
-25. FlyManWind, $506,401.39
-26. InvaderBoxcars, $433,785
+Ordering balances of 457 users, please wait...
+Top balances (4/14/20, 4:00 PM)
+ ---- Balancetop -- Page 3/45 ----
+18. Woodishi, $1,097,347
+19. makoriot, $1,063,280
+20. yungthrussy, $1,059,600
+21. TotallyAlias, $956,042.39
+22. ReconBox, $940,519
+23. legoloncher, $753,437.50
+24. CatBirb, $724,600
+25. 10Nates, $599,000
+26. jjjbers, $581,486.35
 Type /balancetop 4 to read the next page.
