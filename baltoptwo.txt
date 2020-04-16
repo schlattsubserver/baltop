@@ -1,9 +1,9 @@
-Ordering balances of 500 users, please wait...
-Top balances (4/15/20, 10:00 PM)
+Ordering balances of 502 users, please wait...
+Top balances (4/16/20, 12:00 AM)
  ---- Balancetop -- Page 2/49 ----
 9. Shattered_Pixels, $1,847,915.74
 10. ActuallyOdin, $1,527,774
-11. Captain_Uganda69, $1,443,220
+11. ~Courier, $1,443,220
 12. Melenni, $1,422,550
 13. skraskk, $1,312,400
 14. Baseline, $1,148,395.70
