@@ -1,13 +1,13 @@
-Ordering balances of 502 users, please wait...
-Top balances (4/16/20, 12:00 AM)
- ---- Balancetop -- Page 2/49 ----
-9. Shattered_Pixels, $1,847,915.74
-10. ActuallyOdin, $1,527,774
-11. ~Courier, $1,443,220
-12. Melenni, $1,422,550
-13. skraskk, $1,312,400
-14. Baseline, $1,148,395.70
-15. makoriot, $1,063,280
-16. yungthrussy, $1,059,600
-17. TotallyAlias, $956,042.39
+Ordering balances of 503 users, please wait...
+Top balances (4/16/20, 2:00 AM)
+ ---- Balancetop -- Page 2/50 ----
+9. Pastor_Nick, $2,370,917.31
+10. Shattered_Pixels, $1,847,915.74
+11. ActuallyOdin, $1,527,774
+12. Captain_Uganda69, $1,443,220
+13. Melenni, $1,422,550
+14. skraskk, $1,312,400
+15. Baseline, $1,148,395.70
+16. makoriot, $1,063,280
+17. yungthrussy, $1,059,600
 Type /balancetop 3 to read the next page.
