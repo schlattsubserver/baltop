@@ -1,13 +1,13 @@
-Ordering balances of 507 users, please wait...
-Top balances (4/16/20, 10:00 AM)
+Ordering balances of 508 users, please wait...
+Top balances (4/16/20, 12:00 PM)
  ---- Balancetop -- Page 3/50 ----
 18. TotallyAlias, $956,042.39
 19. ReconBox, $940,519
 20. legoloncher, $753,437.50
 21. CatBirb, $724,600
-22. SolaireOfAstoria, $722,527.33
+22. ~Solaire, $721,307.33
 23. 10Nates, $599,000
 24. jjjbers, $581,486.35
-25. FlyManWind, $506,401.39
+25. FlyManWind, $506,371.39
 26. InvaderBoxcars, $433,785
 Type /balancetop 4 to read the next page.
