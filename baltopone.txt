@@ -1,13 +1,13 @@
-Ordering balances of 511 users, please wait...
-Top balances (4/16/20, 8:00 PM)
- ---- Balancetop -- Page 1/50 ----
-Server Total: $87,671,415.26
+Ordering balances of 514 users, please wait...
+Top balances (4/16/20, 10:00 PM)
+ ---- Balancetop -- Page 1/51 ----
+Server Total: $87,450,527.51
 1. WheezyGold7931, $15,301,971.70
-2. ~Blaze, $14,067,253.32
-3. ~cutlink, $9,247,235.84
+2. blazex224, $13,851,174.01
+3. alexsam26_CTLNK, $9,247,235.84
 4. jswilk, $8,233,130.75
 5. cfyt, $8,029,750
-6. happy_socks, $5,034,840
+6. happy_socks, $5,035,340
 7. Soul_R3nder, $2,789,239.87
 8. Mattk16, $2,572,724.69
 Type /balancetop 2 to read the next page.
