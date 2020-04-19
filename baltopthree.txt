@@ -1,8 +1,8 @@
 Ordering balances of 559 users, please wait...
-Top balances (4/19/20, 6:00 AM)
+Top balances (4/19/20, 8:00 AM)
  ---- Balancetop -- Page 3/56 ----
 18. Deltair, $961,914.50
-19. TotallyAlias, $941,663.39
+19. TotallyAlias, $941,723.39
 20. ReconBox, $940,499
 21. legoloncher, $753,437.50
 22. CatBirb, $724,600
