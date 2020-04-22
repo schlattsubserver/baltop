@@ -1,7 +1,7 @@
-Ordering balances of 598 users, please wait...
-Top balances (4/21/20, 8:00 PM)
+Ordering balances of 600 users, please wait...
+Top balances (4/21/20, 10:00 PM)
  ---- Balancetop -- Page 1/60 ----
-Server Total: $94,017,348.08
+Server Total: $94,016,548.08
 1. ~Blaze, $15,940,241.46
 2. WheezyGold7931, $15,357,326.70
 3. cfyt, $11,112,796.93
