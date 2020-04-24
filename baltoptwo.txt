@@ -1,5 +1,5 @@
-Ordering balances of 665 users, please wait...
-Top balances (4/24/20, 2:00 AM)
+Ordering balances of 668 users, please wait...
+Top balances (4/24/20, 4:00 AM)
  ---- Balancetop -- Page 2/67 ----
 9. Mattk16, $2,572,709.69
 10. Pastor_Nick, $2,367,447.31
@@ -9,5 +9,5 @@ Top balances (4/24/20, 2:00 AM)
 14. Captain_Uganda69, $1,335,214.50
 15. skraskk, $1,312,400
 16. Tsarcasm, $1,300,427.88
-17. Baseline, $1,207,676.70
+17. Baseline, $1,207,686.70
 Type /balancetop 3 to read the next page.
