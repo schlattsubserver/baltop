@@ -1,7 +1,7 @@
-Ordering balances of 672 users, please wait...
-Top balances (4/24/20, 12:00 PM)
+Ordering balances of 677 users, please wait...
+Top balances (4/24/20, 2:00 PM)
  ---- Balancetop -- Page 3/68 ----
-18. GaNeBaL, $1,197,696.63
+18. GaNeBaL, $1,197,528.58
 19. makoriot, $1,063,280
 20. yungthrussy, $1,059,600
 21. TotallyAlias, $945,355.02
