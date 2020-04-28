@@ -1,13 +1,13 @@
-Ordering balances of 750 users, please wait...
-Top balances (4/27/20, 8:00 PM)
+Ordering balances of 751 users, please wait...
+Top balances (4/27/20, 10:00 PM)
  ---- Balancetop -- Page 3/76 ----
 18. GaNeBaL, $1,192,083.58
 19. makoriot, $1,063,280
 20. yungthrussy, $1,059,600
-21. TotallyAlias, $945,474.02
-22. ReconBox, $940,499
-23. Deltair, $916,659.50
-24. legoloncher, $753,437.50
-25. CatBirb, $724,600
-26. 10Nates, $599,000
+21. ReconBox, $940,499
+22. Deltair, $916,659.50
+23. legoloncher, $753,437.50
+24. CatBirb, $724,600
+25. 10Nates, $599,000
+26. jjjbers, $581,486.35
 Type /balancetop 4 to read the next page.
