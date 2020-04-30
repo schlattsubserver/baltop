@@ -1,10 +1,10 @@
-Ordering balances of 776 users, please wait...
-Top balances (4/29/20, 8:00 PM)
+Ordering balances of 778 users, please wait...
+Top balances (4/29/20, 10:00 PM)
  ---- Balancetop -- Page 3/79 ----
 18. yungthrussy, $1,059,600
 19. ReconBox, $940,499
 20. Deltair, $916,659.50
-21. AxissNova, $852,898.64
+21. AxissNova, $848,899.64
 22. legoloncher, $745,309.50
 23. CatBirb, $724,600
 24. 10Nates, $599,000
