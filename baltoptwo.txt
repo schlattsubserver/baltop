@@ -1,13 +1,13 @@
-Ordering balances of 797 users, please wait...
-Top balances (5/1/20, 8:00 PM)
+Ordering balances of 801 users, please wait...
+Top balances (5/1/20, 10:00 PM)
  ---- Balancetop -- Page 2/81 ----
 9. Pastor_Nick, $2,365,856.31
-10. Shattered_Pixels, $1,812,165.74
+10. Shattered_Pixels, $1,812,915.74
 11. Melenni, $1,421,749.99
 12. Captain_Uganda69, $1,335,664.50
 13. skraskk, $1,312,400
 14. Tsarcasm, $1,280,740.16
 15. Baseline, $1,214,903.20
-16. GaNeBaL, $1,184,395.83
+16. GaNeBaL, $1,184,393.83
 17. makoriot, $1,063,280
 Type /balancetop 3 to read the next page.
