@@ -1,10 +1,10 @@
-Ordering balances of 941 users, please wait...
-Top balances (5/11/20, 10:00 AM)
+Ordering balances of 943 users, please wait...
+Top balances (5/11/20, 12:00 PM)
  ---- Balancetop -- Page 3/97 ----
 18. ReconBox, $940,499
 19. AxissNova, $925,147.21
 20. Deltair, $915,289.50
-21. Tsarcasm, $868,718.34
+21. Tsarcasm, $868,688.34
 22. legoloncher, $745,309.50
 23. CatBirb, $724,600
 24. 10Nates, $599,000
