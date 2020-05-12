@@ -1,8 +1,8 @@
-Ordering balances of 957 users, please wait...
-Top balances (5/12/20, 12:00 AM)
+Ordering balances of 958 users, please wait...
+Top balances (5/12/20, 2:00 AM)
  ---- Balancetop -- Page 3/99 ----
-18. AxissNova, $924,487.21
-19. Deltair, $915,289.50
+18. Deltair, $915,289.50
+19. Shattered_Pixels, $913,490.74
 20. Tsarcasm, $873,148.34
 21. Pandune, $813,699.20
 22. legoloncher, $745,309.50

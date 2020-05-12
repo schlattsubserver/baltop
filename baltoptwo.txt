@@ -1,13 +1,13 @@
-Ordering balances of 957 users, please wait...
-Top balances (5/12/20, 12:00 AM)
+Ordering balances of 958 users, please wait...
+Top balances (5/12/20, 2:00 AM)
  ---- Balancetop -- Page 2/99 ----
 9. Pastor_Nick, $2,365,856.31
-10. ~Shattered, $1,854,690.74
-11. Melenni, $1,421,749.99
-12. Captain_Uganda69, $1,335,664.50
-13. skraskk, $1,312,400
-14. GaNeBaL, $1,101,394.83
-15. makoriot, $1,063,280
-16. yungthrussy, $1,059,600
-17. ReconBox, $940,499
+10. Melenni, $1,421,749.99
+11. Captain_Uganda69, $1,335,664.50
+12. skraskk, $1,312,400
+13. GaNeBaL, $1,101,394.83
+14. makoriot, $1,063,280
+15. yungthrussy, $1,059,600
+16. ReconBox, $940,499
+17. AxissNova, $924,487.21
 Type /balancetop 3 to read the next page.
