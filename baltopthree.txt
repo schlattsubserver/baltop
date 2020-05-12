@@ -1,9 +1,9 @@
-Ordering balances of 961 users, please wait...
-Top balances (5/12/20, 12:00 PM)
+Ordering balances of 962 users, please wait...
+Top balances (5/12/20, 2:00 PM)
  ---- Balancetop -- Page 3/99 ----
-18. Deltair, $915,289.50
-19. Shattered_Pixels, $913,490.74
-20. Tsarcasm, $880,821.73
+18. Tsarcasm, $937,595.27
+19. Deltair, $915,289.50
+20. Shattered_Pixels, $913,490.74
 21. Pandune, $813,699.20
 22. legoloncher, $745,309.50
 23. CatBirb, $724,600
