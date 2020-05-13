@@ -1,10 +1,10 @@
-Ordering balances of 966 users, please wait...
-Top balances (5/13/20, 8:00 AM)
+Ordering balances of 967 users, please wait...
+Top balances (5/13/20, 10:00 AM)
  ---- Balancetop -- Page 1/100 ----
-Server Total: $85,749,646.59
+Server Total: $85,282,914.59
 1. blazex224, $15,969,305.36
 2. WheezyGold7931, $15,530,090.70
-3. nicktvofficial, $10,148,301.04
+3. nicktvofficial, $9,670,679.04
 4. jswilk, $8,193,884.25
 5. happy_socks, $5,036,410
 6. Jae_byrd_, $3,686,910.87
