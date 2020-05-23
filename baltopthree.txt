@@ -1,7 +1,7 @@
-Ordering balances of 1,021 users, please wait...
-Top balances (5/22/20, 6:00 PM)
- ---- Balancetop -- Page 3/105 ----
-18. ReconBox, $940,499
+Ordering balances of 1,022 users, please wait...
+Top balances (5/22/20, 8:00 PM)
+ ---- Balancetop -- Page 3/106 ----
+18. ReconBox, $940,479
 19. Shattered_Pixels, $934,343.87
 20. Deltair, $915,289.50
 21. Pandune, $819,079.20
