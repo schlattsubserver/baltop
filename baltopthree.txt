@@ -1,5 +1,5 @@
-Ordering balances of 1,037 users, please wait...
-Top balances (5/24/20, 10:00 PM)
+Ordering balances of 1,038 users, please wait...
+Top balances (5/25/20, 12:00 AM)
  ---- Balancetop -- Page 3/107 ----
 18. ReconBox, $940,479
 19. Shattered_Pixels, $937,243.87
@@ -9,5 +9,5 @@ Top balances (5/24/20, 10:00 PM)
 23. CatBirb, $724,600
 24. 10Nates, $599,000
 25. jjjbers, $581,486.35
-26. InvaderBoxcars, $433,785
+26. CallMeArson, $438,523.31
 Type /balancetop 4 to read the next page.
