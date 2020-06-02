@@ -1,13 +1,13 @@
 Ordering balances of 1,100 users, please wait...
-Top balances (6/2/20, 12:00 PM)
+Top balances (6/2/20, 2:00 PM)
  ---- Balancetop -- Page 3/114 ----
-18. Shattered_Pixels, $970,868.87
+18. Shattered_Pixels, $971,318.87
 19. ReconBox, $940,479
 20. Pandune, $819,499.20
 21. legoloncher, $745,309.50
 22. CatBirb, $724,600
 23. 10Nates, $599,000
 24. jjjbers, $581,486.35
-25. Deltair, $564,061.50
+25. Deltair, $563,536.50
 26. CallMeArson, $503,483.71
 Type /balancetop 4 to read the next page.
