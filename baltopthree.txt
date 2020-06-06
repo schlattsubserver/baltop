@@ -1,5 +1,5 @@
 Ordering balances of 1,127 users, please wait...
-Top balances (6/6/20, 2:00 PM)
+Top balances (6/6/20, 4:00 PM)
  ---- Balancetop -- Page 3/117 ----
 18. Shattered_Pixels, $972,118.87
 19. ReconBox, $940,479
@@ -8,6 +8,6 @@ Top balances (6/6/20, 2:00 PM)
 22. CatBirb, $724,600
 23. 10Nates, $599,000
 24. jjjbers, $581,486.35
-25. Deltair, $562,953.74
-26. CallMeArson, $558,552.71
+25. CallMeArson, $558,552.71
+26. Deltair, $517,889.74
 Type /balancetop 4 to read the next page.
