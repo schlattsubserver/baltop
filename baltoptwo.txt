@@ -1,5 +1,5 @@
 Ordering balances of 1,129 users, please wait...
-Top balances (6/7/20, 12:00 PM)
+Top balances (6/7/20, 2:00 PM)
  ---- Balancetop -- Page 2/117 ----
 9. Jae_byrd_, $1,468,340.61
 10. Melenni, $1,421,749.99
@@ -7,7 +7,7 @@ Top balances (6/7/20, 12:00 PM)
 12. skraskk, $1,312,400
 13. Tsarcasm, $1,117,976.74
 14. yungthrussy, $1,059,600
-15. AxissNova, $1,047,715.97
+15. AxissNova, $1,047,716.97
 16. GaNeBaL, $999,244.83
-17. TheCheeseBoi, $989,443.09
+17. TheCheeseBoi, $989,743.09
 Type /balancetop 3 to read the next page.
