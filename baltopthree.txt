@@ -1,7 +1,7 @@
 Ordering balances of 1,131 users, please wait...
-Top balances (6/7/20, 10:00 PM)
+Top balances (6/8/20, 12:00 AM)
  ---- Balancetop -- Page 3/118 ----
-18. Shattered_Pixels, $972,118.87
+18. ~Shattered, $972,118.87
 19. Pandune, $819,499.20
 20. legoloncher, $745,309.50
 21. CatBirb, $724,600
