@@ -1,5 +1,5 @@
-Ordering balances of 1,146 users, please wait...
-Top balances (6/10/20, 10:00 AM)
+Ordering balances of 1,147 users, please wait...
+Top balances (6/10/20, 12:00 PM)
  ---- Balancetop -- Page 3/119 ----
 18. Shattered_Pixels, $973,268.87
 19. Pandune, $821,549.20
@@ -9,5 +9,5 @@ Top balances (6/10/20, 10:00 AM)
 23. jjjbers, $581,486.35
 24. CallMeArson, $558,253.18
 25. ReconBox, $540,479
-26. RICARDOSEX, $488,351.67
+26. RICARDOSEX, $488,256.67
 Type /balancetop 4 to read the next page.
