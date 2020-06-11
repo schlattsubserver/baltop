@@ -1,7 +1,7 @@
 Ordering balances of 1,152 users, please wait...
-Top balances (6/11/20, 12:00 PM)
+Top balances (6/11/20, 2:00 PM)
  ---- Balancetop -- Page 3/120 ----
-18. TheCheeseBoi, $971,965.40
+18. ~Cheesy, $971,965.40
 19. Pandune, $821,549.20
 20. legoloncher, $745,309.50
 21. CatBirb, $724,600
@@ -9,5 +9,5 @@ Top balances (6/11/20, 12:00 PM)
 23. jjjbers, $581,486.35
 24. CallMeArson, $558,254.18
 25. ReconBox, $540,479
-26. RICARDOSEX, $488,256.67
+26. Deltair, $491,395.72
 Type /balancetop 4 to read the next page.
