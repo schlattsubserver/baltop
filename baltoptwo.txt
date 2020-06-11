@@ -1,5 +1,5 @@
-Ordering balances of 1,152 users, please wait...
-Top balances (6/11/20, 2:00 PM)
+Ordering balances of 1,153 users, please wait...
+Top balances (6/11/20, 4:00 PM)
  ---- Balancetop -- Page 2/120 ----
 9. Jae_byrd_, $1,509,015.61
 10. Melenni, $1,421,749.99
@@ -9,5 +9,5 @@ Top balances (6/11/20, 2:00 PM)
 14. yungthrussy, $1,059,600
 15. AxissNova, $1,047,716.97
 16. GaNeBaL, $999,244.83
-17. Shattered_Pixels, $973,268.87
+17. Shattered_Pixels, $982,493.87
 Type /balancetop 3 to read the next page.
