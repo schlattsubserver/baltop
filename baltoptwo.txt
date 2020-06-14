@@ -1,5 +1,5 @@
 Ordering balances of 1,171 users, please wait...
-Top balances (6/14/20, 2:00 AM)
+Top balances (6/14/20, 4:00 AM)
  ---- Balancetop -- Page 2/122 ----
 9. Jae_byrd_, $1,509,015.61
 10. Melenni, $1,421,749.99
@@ -9,5 +9,5 @@ Top balances (6/14/20, 2:00 AM)
 14. yungthrussy, $1,059,600
 15. AxissNova, $1,047,716.97
 16. GaNeBaL, $999,244.83
-17. ~Shattered, $983,643.87
+17. Shattered_Pixels, $983,643.87
 Type /balancetop 3 to read the next page.
