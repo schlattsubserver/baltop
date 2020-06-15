@@ -1,13 +1,13 @@
 Ordering balances of 1,178 users, please wait...
-Top balances (6/15/20, 8:00 AM)
+Top balances (6/15/20, 10:00 AM)
  ---- Balancetop -- Page 2/122 ----
-9. Pastor_Nick, $2,365,856.31
-10. Jae_byrd_, $1,509,015.61
-11. Melenni, $1,421,749.99
-12. Courier2282, $1,335,664.50
-13. skraskk, $1,312,400
-14. Tsarcasm, $1,131,301.74
-15. yungthrussy, $1,059,600
-16. AxissNova, $1,047,716.97
-17. GaNeBaL, $999,244.83
+9. Jae_byrd_, $1,509,015.61
+10. Melenni, $1,421,749.99
+11. Courier2282, $1,335,664.50
+12. skraskk, $1,312,400
+13. Tsarcasm, $1,131,301.74
+14. yungthrussy, $1,059,600
+15. AxissNova, $1,047,716.97
+16. GaNeBaL, $999,244.83
+17. Shattered_Pixels, $988,593.87
 Type /balancetop 3 to read the next page.
