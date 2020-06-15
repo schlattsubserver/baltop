@@ -1,13 +1,13 @@
 Ordering balances of 1,180 users, please wait...
-Top balances (6/15/20, 4:00 PM)
+Top balances (6/15/20, 6:00 PM)
  ---- Balancetop -- Page 3/123 ----
-18. ~Soap, $971,493
+18. HopelessSoap, $866,493
 19. Pandune, $821,549.20
-20. ~Cheesy, $818,690.48
-21. legoloncher, $745,309.50
-22. CatBirb, $724,600
+20. legoloncher, $745,309.50
+21. CatBirb, $724,600
+22. ~Cheesy, $718,897.48
 23. 10Nates, $599,000
-24. RICARDOSEX, $598,257.05
+24. RICARDOSEX, $598,037.55
 25. jjjbers, $581,486.35
 26. InvaderBoxcars, $433,785
 Type /balancetop 4 to read the next page.
