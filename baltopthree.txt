@@ -1,7 +1,7 @@
-Ordering balances of 1,185 users, please wait...
-Top balances (6/16/20, 12:00 AM)
+Ordering balances of 1,186 users, please wait...
+Top balances (6/16/20, 2:00 AM)
  ---- Balancetop -- Page 3/123 ----
-18. ~Soap, $864,493
+18. HopelessSoap, $864,493
 19. Pandune, $821,549.20
 20. legoloncher, $745,309.50
 21. CatBirb, $724,600
