@@ -1,12 +1,12 @@
 Ordering balances of 1,207 users, please wait...
-Top balances (6/19/20, 6:00 PM)
+Top balances (6/19/20, 8:00 PM)
  ---- Balancetop -- Page 1/126 ----
-Server Total: $76,959,367.55
+Server Total: $76,821,203.79
 1. blazex224, $16,014,390.19
 2. WheezyGold7931, $15,047,551.71
 3. jswilk, $8,193,063.17
 4. happy_socks, $5,036,420
-5. CallMeArson, $3,598,229.76
+5. PoopAssPoop, $2,800,000
 6. Soul_R3nder, $2,790,014.17
 7. Mattk16, $2,572,709.69
 8. Pastor_Nick, $2,365,856.31
