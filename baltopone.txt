@@ -1,11 +1,11 @@
 Ordering balances of 1,225 users, please wait...
-Top balances (6/24/20, 12:00 PM)
+Top balances (6/24/20, 2:00 PM)
  ---- Balancetop -- Page 1/127 ----
 Server Total: $3,800,076,168,269.03
 1. blazex224, $228,236,021,939.19
 2. WheezyGold7931, $200,115,047,551.71
 3. Soul_R3nder, $200,071,790,014.17
-4. HopelessSoap, $200,000,641,051
+4. ~Soap, $200,000,641,051
 5. TheCheeseBoi, $200,000,362,294.34
 6. Deltair, $200,000,359,195.72
 7. hladych, $200,000,150,661.01
