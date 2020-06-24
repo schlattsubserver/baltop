@@ -1,5 +1,5 @@
 Ordering balances of 1,225 users, please wait...
-Top balances (6/24/20, 10:00 AM)
+Top balances (6/24/20, 12:00 PM)
  ---- Balancetop -- Page 3/127 ----
 18. ReconBox, $199,900,340,479.01
 19. TotallyAlias, $171,780,001,479.50
@@ -8,6 +8,6 @@ Top balances (6/24/20, 10:00 AM)
 22. PoopAssPoop, $2,800,000
 23. Mattk16, $2,572,709.69
 24. Pastor_Nick, $2,365,856.31
-25. Jae_byrd_, $1,509,015.61
+25. Jae_byrd_, $1,509,815.61
 26. Melenni, $1,421,749.99
 Type /balancetop 4 to read the next page.
