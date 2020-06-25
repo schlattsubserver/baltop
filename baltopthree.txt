@@ -1,11 +1,11 @@
-Ordering balances of 1,228 users, please wait...
-Top balances (6/24/20, 8:00 PM)
+Ordering balances of 1,229 users, please wait...
+Top balances (6/24/20, 10:00 PM)
  ---- Balancetop -- Page 3/128 ----
 18. ReconBox, $199,900,340,479.01
 19. TotallyAlias, $171,780,001,479.50
 20. jswilk, $8,193,063.17
 21. happy_socks, $5,036,420
-22. PoopAssPoop, $2,800,000
+22. PoopAssPoop, $2,799,980
 23. Mattk16, $2,572,709.69
 24. Pastor_Nick, $2,365,856.31
 25. Jae_byrd_, $1,509,815.61
