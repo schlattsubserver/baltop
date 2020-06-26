@@ -1,5 +1,5 @@
 Ordering balances of 1,236 users, please wait...
-Top balances (6/25/20, 8:00 PM)
+Top balances (6/25/20, 10:00 PM)
  ---- Balancetop -- Page 3/128 ----
 18. TotallyAlias, $171,780,001,479.50
 19. Lone_Dogg, $94,000,000,000
@@ -8,6 +8,6 @@ Top balances (6/25/20, 8:00 PM)
 22. PoopAssPoop, $2,799,980
 23. Mattk16, $2,572,709.69
 24. Pastor_Nick, $2,365,856.31
-25. Jae_byrd_, $1,509,815.61
+25. Jae_byrd_, $1,510,615.61
 26. Melenni, $1,421,749.99
 Type /balancetop 4 to read the next page.

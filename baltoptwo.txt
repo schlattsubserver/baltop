@@ -1,13 +1,13 @@
 Ordering balances of 1,236 users, please wait...
-Top balances (6/25/20, 8:00 PM)
+Top balances (6/25/20, 10:00 PM)
  ---- Balancetop -- Page 2/128 ----
-9. ActuallyOdin, $200,000,000,450
-10. TychoVI, $200,000,000,168
-11. alexsam26_CTLNK, $200,000,000,000
-12. makoriot, $200,000,000,000
-13. RyanTech, $199,999,993,201.97
-14. Shattered_Pixels, $199,999,991,454.87
-15. dudethatsradical, $199,999,517,950
+9. TychoVI, $200,000,000,168
+10. alexsam26_CTLNK, $200,000,000,000
+11. makoriot, $200,000,000,000
+12. RyanTech, $199,999,993,201.97
+13. Shattered_Pixels, $199,999,991,454.87
+14. dudethatsradical, $199,999,517,950
+15. TheCheeseBoi, $199,999,350,769.34
 16. NE7D, $199,931,098,167.06
 17. ReconBox, $199,900,340,479.01
 Type /balancetop 3 to read the next page.
