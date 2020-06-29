@@ -1,13 +1,13 @@
-Ordering balances of 1,240 users, please wait...
-Top balances (6/26/20, 8:00 AM)
- ---- Balancetop -- Page 3/129 ----
-18. TotallyAlias, $171,780,001,479.50
-19. Lone_Dogg, $94,000,000,000
-20. jswilk, $8,193,063.17
-21. happy_socks, $5,036,420
-22. PoopAssPoop, $2,799,980
-23. Mattk16, $2,572,709.69
-24. Pastor_Nick, $2,365,856.31
-25. Jae_byrd_, $1,510,615.61
-26. Melenni, $1,421,749.99
+Ordering balances of 108 users, please wait...
+Top balances (6/29/20, 2:52 PM)
+ ---- Balancetop -- Page 3/13 ----
+18. Jr6lop, $0
+19. CarSini12, $0
+20. DatBoiWill, $0
+21. AirConditioner34, $0
+22. NeRd_RaGe_, $0
+23. Henessly, $0
+24. Tricondemolition, $0
+25. SolaireOfAstoria, $0
+26. SturdyDan, $0
 Type /balancetop 4 to read the next page.

@@ -1,13 +1,13 @@
-Ordering balances of 1,240 users, please wait...
-Top balances (6/26/20, 8:00 AM)
- ---- Balancetop -- Page 1/129 ----
-Server Total: $3,694,074,531,635.96
-1. blazex224, $228,235,589,939.19
-2. WheezyGold7931, $200,115,047,551.71
-3. Soul_R3nder, $200,071,790,014.17
-4. HopelessSoap, $200,000,641,051
-5. Deltair, $200,000,359,195.72
-6. hladych, $200,000,150,661.01
-7. saxandviolins, $200,000,019,669
-8. ActuallyOdin, $200,000,000,450
+Ordering balances of 108 users, please wait...
+Top balances (6/29/20, 2:52 PM)
+ ---- Balancetop -- Page 1/13 ----
+Server Total: $20,677.96
+1. ~Cheems, $6,392.52
+2. _porter, $4,789.99
+3. 150cc, $3,471.91
+4. ~Josh, $3,200
+5. ~Anthony, $1,600
+6. Deltair, $800
+7. ~Shattered, $404.99
+8. ~axiss, $9.53
 Type /balancetop 2 to read the next page.

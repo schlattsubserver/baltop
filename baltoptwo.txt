@@ -1,13 +1,13 @@
-Ordering balances of 1,240 users, please wait...
-Top balances (6/26/20, 8:00 AM)
- ---- Balancetop -- Page 2/129 ----
-9. TychoVI, $200,000,000,168
-10. alexsam26_CTLNK, $200,000,000,000
-11. makoriot, $200,000,000,000
-12. RyanTech, $199,999,993,201.97
-13. Shattered_Pixels, $199,999,991,454.87
-14. dudethatsradical, $199,999,517,950
-15. TheCheeseBoi, $199,999,350,769.34
-16. NE7D, $199,931,098,167.06
-17. ReconBox, $199,900,340,479.01
+Ordering balances of 108 users, please wait...
+Top balances (6/29/20, 2:52 PM)
+ ---- Balancetop -- Page 2/13 ----
+9. alexsam26_CTLNK, $5.02
+10. Pandune, $4
+11. Skeutey, $0
+12. Jack_276, $0
+13. JakeMemester, $0
+14. Ashy_One, $0
+15. aircraftw27, $0
+16. TotallyAlias, $0
+17. Soul_R3nder, $0
 Type /balancetop 3 to read the next page.
